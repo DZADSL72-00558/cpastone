@@ -9,12 +9,14 @@ See more on the following website:
 ### step1 
 On your ubuntu system, first you need to open the terminal, and source the setup.bash file
 
-> source /rso1_ws/setup.bash // in terminal 1
+> source /rso1_ws/setup.bash // in terminal 1 
+
 > source /ros2_ws/setup.bash // in terminal 2
 ### step2
 then we need to establish soft connection by input:
 
 > catkin_make talker  // in ros1 in terminal 1
+
 > colcon build talker // int ros2 in terminal 2
 ### step3
 start gazebo in terminal1
@@ -23,16 +25,20 @@ start gazebo in terminal1
 start ros1_bridge in terminal2:
 
 > source /rso1_ws/setup.bash
+
 > source /ros2_ws/setup.bash
+
 > ros2 run ros1_bridge dynamic_bridge --bridge-all-1to2-topics
 
 ### step4
 start talker in ros2 in terminal3
 
 > source /ros2_ws/setup.bash
+
 > ros2 run talker talker
 
 start talker in ros1 in terminal4
 
 >  source /rso1_ws/setup.bash
+
 >   rosrun talker talker
