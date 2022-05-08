@@ -1,0 +1,138 @@
+[0.023s] Invoking command in '/home/bofengluo/ros2_ws/build/ros1_bridge': CMAKE_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msgs:/home/bofengluo/ros2_ws/install/pubsub:/home/bofengluo/ros2_ws/install/custom_msg_ros2:/home/bofengluo/catkin_ws/devel:/opt/ros/noetic:/home/bofengluo/ros2_foxy/ros2-linux /usr/bin/cmake /home/bofengluo/ros2_ws/src/ros1_bridge -DCMAKE_INSTALL_PREFIX=/home/bofengluo/ros2_ws/install/ros1_bridge
+[0.095s] -- The C compiler identification is GNU 9.4.0
+[0.158s] -- The CXX compiler identification is GNU 9.4.0
+[0.167s] -- Check for working C compiler: /usr/bin/cc
+[0.252s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.255s] -- Detecting C compiler ABI info
+[0.348s] -- Detecting C compiler ABI info - done
+[0.361s] -- Detecting C compile features
+[0.362s] -- Detecting C compile features - done
+[0.367s] -- Check for working CXX compiler: /usr/bin/c++
+[0.467s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.470s] -- Detecting CXX compiler ABI info
+[0.573s] -- Detecting CXX compiler ABI info - done
+[0.586s] -- Detecting CXX compile features
+[0.586s] -- Detecting CXX compile features - done
+[0.588s] -- Found rmw: 1.0.3 (/home/bofengluo/ros2_foxy/ros2-linux/share/rmw/cmake)
+[0.620s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.620s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.890s] -- Found rclcpp: 2.4.1 (/home/bofengluo/ros2_foxy/ros2-linux/share/rclcpp/cmake)
+[0.925s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_connext_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.932s] -- Found rosidl_adapter: 1.2.1 (/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_adapter/cmake)
+[0.956s] -- Could not find RTI Connext - skipping rosidl_typesupport_connext_c
+[0.967s] -- Could not find RTI Connext - skipping rosidl_typesupport_connext_cpp
+[1.131s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.173s] -- Found FastRTPS: /home/bofengluo/ros2_foxy/ros2-linux/include  
+[1.261s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_connext_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.329s] -- Found rmw_implementation_cmake: 1.0.3 (/home/bofengluo/ros2_foxy/ros2-linux/share/rmw_implementation_cmake/cmake)
+[1.331s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.333s] -- Looking for pthread.h
+[1.402s] -- Looking for pthread.h - found
+[1.402s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.507s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[1.508s] -- Looking for pthread_create in pthreads
+[1.589s] -- Looking for pthread_create in pthreads - not found
+[1.589s] -- Looking for pthread_create in pthread
+[1.694s] -- Looking for pthread_create in pthread - found
+[1.696s] -- Found Threads: TRUE  
+[1.806s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1") 
+[1.811s] -- Checking for module 'roscpp'
+[1.846s] --   Found roscpp, version 1.15.14
+[1.962s] -- Checking for module 'std_msgs'
+[2.001s] --   Found std_msgs, version 0.5.13
+[2.632s] -- Checking for module 'actionlib'
+[2.672s] --   Found actionlib, version 1.13.2
+[2.779s] -- Checking for module 'actionlib_msgs'
+[2.814s] --   Found actionlib_msgs, version 1.13.1
+[2.912s] -- Checking for module 'actionlib_tutorials'
+[2.953s] --   Found actionlib_tutorials, version 0.2.0
+[3.047s] -- Checking for module 'bond'
+[3.087s] --   Found bond, version 1.8.6
+[3.193s] -- Checking for module 'cartesian_control_msgs'
+[3.233s] --   Found cartesian_control_msgs, version 0.1.0
+[3.332s] -- Checking for module 'control_msgs'
+[3.371s] --   Found control_msgs, version 1.5.2
+[3.476s] -- Checking for module 'controller_manager_msgs'
+[3.516s] --   Found controller_manager_msgs, version 0.19.5
+[3.614s] -- Checking for module 'diagnostic_msgs'
+[3.655s] --   Found diagnostic_msgs, version 1.13.1
+[3.757s] -- Checking for module 'dynamic_reconfigure'
+[3.796s] --   Found dynamic_reconfigure, version 1.7.2
+[3.895s] -- Checking for module 'gazebo_msgs'
+[3.936s] --   Found gazebo_msgs, version 2.9.2
+[4.036s] -- Checking for module 'geometry_msgs'
+[4.070s] --   Found geometry_msgs, version 1.13.1
+[4.174s] -- Checking for module 'industrial_msgs'
+[4.216s] --   Found industrial_msgs, version 0.7.2
+[4.323s] -- Checking for module 'map_msgs'
+[4.365s] --   Found map_msgs, version 1.14.1
+[4.466s] -- Checking for module 'moveit_msgs'
+[4.508s] --   Found moveit_msgs, version 0.11.2
+[4.612s] -- Checking for module 'nav_msgs'
+[4.649s] --   Found nav_msgs, version 1.13.1
+[4.754s] -- Checking for module 'object_recognition_msgs'
+[4.783s] --   Found object_recognition_msgs, version 0.4.2
+[4.872s] -- Checking for module 'octomap_msgs'
+[4.902s] --   Found octomap_msgs, version 0.3.5
+[4.984s] -- Checking for module 'pcl_msgs'
+[5.020s] --   Found pcl_msgs, version 0.3.0
+[5.122s] -- Checking for module 'rosgraph_msgs'
+[5.153s] --   Found rosgraph_msgs, version 1.11.3
+[5.244s] -- Checking for module 'rospy_tutorials'
+[5.282s] --   Found rospy_tutorials, version 0.10.2
+[5.365s] -- Checking for module 'sensor_msgs'
+[5.399s] --   Found sensor_msgs, version 1.13.1
+[5.455s] -- Checking for module 'shape_msgs'
+[5.492s] --   Found shape_msgs, version 1.13.1
+[5.580s] -- Checking for module 'smach_msgs'
+[5.619s] --   Found smach_msgs, version 2.5.0
+[5.734s] -- Checking for module 'stereo_msgs'
+[5.774s] --   Found stereo_msgs, version 1.13.1
+[5.875s] -- Checking for module 'tf'
+[5.919s] --   Found tf, version 1.13.2
+[6.043s] -- Checking for module 'tf2_msgs'
+[6.080s] --   Found tf2_msgs, version 0.7.5
+[6.178s] -- Checking for module 'theora_image_transport'
+[6.219s] --   Found theora_image_transport, version 1.14.0
+[6.321s] -- Checking for module 'trajectory_msgs'
+[6.358s] --   Found trajectory_msgs, version 1.13.1
+[6.451s] -- Checking for module 'turtle_actionlib'
+[6.490s] --   Found turtle_actionlib, version 0.2.0
+[6.585s] -- Checking for module 'turtlesim'
+[6.625s] --   Found turtlesim, version 0.10.2
+[6.714s] -- Checking for module 'ur_msgs'
+[6.754s] --   Found ur_msgs, version 1.2.5
+[6.855s] -- Checking for module 'visualization_msgs'
+[6.897s] --   Found visualization_msgs, version 1.13.1
+[6.996s] -- Checking for module 'control_toolbox'
+[7.033s] --   Found control_toolbox, version 1.18.2
+[7.154s] -- Checking for module 'laser_assembler'
+[7.198s] --   Found laser_assembler, version 1.7.8
+[7.342s] -- Checking for module 'polled_camera'
+[7.386s] --   Found polled_camera, version 1.12.0
+[7.508s] -- Checking for module 'roscpp_tutorials'
+[7.549s] --   Found roscpp_tutorials, version 0.10.2
+[7.654s] -- Checking for module 'rviz'
+[7.697s] --   Found rviz, version 1.14.14
+[7.853s] -- Checking for module 'std_srvs'
+[7.894s] --   Found std_srvs, version 1.11.3
+[7.996s] -- Checking for module 'topic_tools'
+[8.038s] --   Found topic_tools, version 1.15.14
+[8.139s] -- Found ament_lint_auto: 0.9.6 (/home/bofengluo/ros2_foxy/ros2-linux/share/ament_lint_auto/cmake)
+[8.159s] -- Checking for module 'roslaunch'
+[8.197s] --   Found roslaunch, version 1.15.14
+[8.402s] -- Found python_cmake_module: 0.8.1 (/home/bofengluo/ros2_foxy/ros2-linux/share/python_cmake_module/cmake)
+[8.430s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+[8.442s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+[8.442s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[8.443s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+[8.443s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+[8.471s] -- Found PythonExtra: .so  
+[8.498s] CMake Error at CMakeLists.txt:75 (message):
+[8.498s]   Failed to find ROS 2 package 'diagnostic_msgs'
+[8.498s] 
+[8.499s] 
+[8.499s] -- Configuring incomplete, errors occurred!
+[8.499s] See also "/home/bofengluo/ros2_ws/build/ros1_bridge/CMakeFiles/CMakeOutput.log".
+[8.500s] See also "/home/bofengluo/ros2_ws/build/ros1_bridge/CMakeFiles/CMakeError.log".
+[8.511s] Invoked command in '/home/bofengluo/ros2_ws/build/ros1_bridge' returned '1': CMAKE_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msgs:/home/bofengluo/ros2_ws/install/pubsub:/home/bofengluo/ros2_ws/install/custom_msg_ros2:/home/bofengluo/catkin_ws/devel:/opt/ros/noetic:/home/bofengluo/ros2_foxy/ros2-linux /usr/bin/cmake /home/bofengluo/ros2_ws/src/ros1_bridge -DCMAKE_INSTALL_PREFIX=/home/bofengluo/ros2_ws/install/ros1_bridge

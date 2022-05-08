@@ -1,0 +1,128 @@
+[0.019s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/moveit_tools': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/zpw/UR3e-ROS2-resources/src/moveit_tools -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zpw/UR3e-ROS2-resources/install/moveit_tools
+[0.096s] -- The C compiler identification is GNU 9.4.0
+[0.153s] -- The CXX compiler identification is GNU 9.4.0
+[0.156s] -- Check for working C compiler: /usr/bin/cc
+[0.215s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.215s] -- Detecting C compiler ABI info
+[0.279s] -- Detecting C compiler ABI info - done
+[0.290s] -- Detecting C compile features
+[0.291s] -- Detecting C compile features - done
+[0.293s] -- Check for working CXX compiler: /usr/bin/c++
+[0.375s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.377s] -- Detecting CXX compiler ABI info
+[0.448s] -- Detecting CXX compiler ABI info - done
+[0.458s] -- Detecting CXX compile features
+[0.458s] -- Detecting CXX compile features - done
+[0.460s] -- Found moveit_common: 2.2.3 (/opt/ros/foxy/share/moveit_common/cmake)
+[0.461s] -- Found ament_cmake: 0.9.9 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.484s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.485s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.696s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.767s] moveit_tools: You did not request a specific build type: Choosing 'Release' for maximum performance
+[1.029s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0") found components: system filesystem date_time thread 
+[1.031s] -- Found control_msgs: 2.5.1 (/opt/ros/foxy/share/control_msgs/cmake)
+[1.060s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.068s] -- Found rosidl_adapter: 1.2.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.145s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.177s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.259s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.801s] -- Found moveit_core: 2.2.3 (/opt/ros/foxy/share/moveit_core/cmake)
+[1.827s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[1.842s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0") found components: filesystem 
+[1.897s] -- Found rmw_implementation_cmake: 1.0.3 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[1.898s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.899s] -- Found Threads: TRUE  
+[2.083s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[2.278s] -- Found Eigen3: TRUE (found version "3.3.7") 
+[4.378s] -- Found moveit_ros_planning: 2.2.3 (/opt/ros/foxy/share/moveit_ros_planning/cmake)
+[4.382s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0") found components: system filesystem date_time program_options thread chrono 
+[4.703s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0") found components: thread 
+[5.461s] -- Found moveit_ros_planning_interface: 2.2.3 (/opt/ros/foxy/share/moveit_ros_planning_interface/cmake)
+[5.464s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0")  
+[5.468s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0") found components: date_time filesystem program_options system thread 
+[5.931s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0") found components: thread system filesystem regex date_time program_options 
+[6.398s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0") found components: system filesystem date_time program_options thread 
+[7.155s] -- Found moveit_ros_perception: 2.2.3 (/opt/ros/foxy/share/moveit_ros_perception/cmake)
+[7.158s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.71.0/BoostConfig.cmake (found version "1.71.0") found components: thread 
+[7.844s] -- Found moveit_servo: 2.2.3 (/opt/ros/foxy/share/moveit_servo/cmake)
+[8.216s] -- Found interactive_markers: 2.1.3 (/opt/ros/foxy/share/interactive_markers/cmake)
+[8.245s] -- Found rviz_visual_tools: 4.0.3 (/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/cmake)
+[8.372s] -- Setting OGRE_DIR to: '/opt/ros/foxy/share/rviz_ogre_vendor/cmake/../../../opt/rviz_ogre_vendor/lib/OGRE/cmake'
+[8.373s] -- Found OGRE
+[8.374s] --   static     : OFF
+[8.374s] --   components : HLMS;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+[8.374s] --   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[8.374s] --   media      : /opt/ros/foxy/opt/rviz_ogre_vendor/share/OGRE/Media
+[8.374s] -- OGRE_LIBRARIES: OgreHLMS;OgreMeshLodGenerator;OgreOverlay;OgrePaging;OgreProperty;OgreRTShaderSystem;OgreTerrain;OgreVolume;OgreMain
+[8.374s] -- OGRE_LIBRARY_DIRS: /opt/ros/foxy/opt/rviz_ogre_vendor/lib
+[8.374s] -- OGRE_PLUGINS: Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[8.375s] -- OGRE_PLUGIN_DIR: /opt/ros/foxy/opt/rviz_ogre_vendor/lib/OGRE
+[8.375s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_RELEASE: /opt/ros/foxy/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[8.375s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_DEBUG: /opt/ros/foxy/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[8.375s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_RELEASE: /opt/ros/foxy/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[8.375s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_DEBUG: /opt/ros/foxy/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[8.393s] -- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.11") 
+[8.397s] -- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so   
+[8.489s] -- Found X11: /usr/include   
+[8.490s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+[8.559s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+[8.559s] -- Looking for gethostbyname
+[8.625s] -- Looking for gethostbyname - found
+[8.625s] -- Looking for connect
+[8.687s] -- Looking for connect - found
+[8.688s] -- Looking for remove
+[8.755s] -- Looking for remove - found
+[8.755s] -- Looking for shmat
+[8.813s] -- Looking for shmat - found
+[8.813s] -- Looking for IceConnectionNumber in ICE
+[8.886s] -- Looking for IceConnectionNumber in ICE - found
+[8.889s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_RELEASE: _render_system_gl_static_library_abs-NOTFOUND
+[8.890s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_DEBUG: _render_system_gl_static_library_abs-NOTFOUND
+[8.935s] -- Setting yaml-cpp_DIR to: '/opt/ros/foxy/share/yaml_cpp_vendor/cmake/../../../opt/yaml_cpp_vendor/lib/cmake/yaml-cpp'
+[9.462s] -- Found moveit_visual_tools: 4.0.0 (/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/share/moveit_visual_tools/cmake)
+[10.830s] -- Found ament_lint_auto: 0.9.6 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[10.858s] -- Added test 'copyright' to check source files copyright and LICENSE
+[10.859s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[10.859s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/zpw/UR3e-ROS2-resources/src/moveit_tools/include>
+[10.860s] -- Configured cppcheck exclude dirs and/or files: 
+[10.860s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[10.860s] -- Configured cpplint exclude dirs and/or files: 
+[10.861s] -- Added test 'flake8' to check Python code syntax and style conventions
+[10.861s] -- Added test 'lint_cmake' to check CMake code style
+[10.862s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[10.862s] -- Added test 'uncrustify' to check C / C++ code style
+[10.862s] -- Configured uncrustify additional arguments: 
+[10.863s] -- Added test 'xmllint' to check XML markup files
+[10.880s] -- Configuring done
+[10.922s] -- Generating done
+[10.937s] -- Build files have been written to: /home/zpw/UR3e-ROS2-resources/build/moveit_tools
+[10.952s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/moveit_tools' returned '0': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake /home/zpw/UR3e-ROS2-resources/src/moveit_tools -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zpw/UR3e-ROS2-resources/install/moveit_tools
+[10.955s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/moveit_tools': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/moveit_tools -- -j16 -l16
+[11.006s] [35m[1mScanning dependencies of target add_collision_ground_plane[0m
+[11.101s] [ 50%] [32mBuilding CXX object CMakeFiles/add_collision_ground_plane.dir/src/add_collision_ground_plane.cpp.o[0m
+[21.167s] [100%] [32m[1mLinking CXX executable add_collision_ground_plane[0m
+[21.443s] [100%] Built target add_collision_ground_plane
+[21.457s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/moveit_tools' returned '0': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/moveit_tools -- -j16 -l16
+[21.489s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/moveit_tools': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/moveit_tools
+[21.498s] -- Install configuration: "Release"
+[21.499s] -- Execute custom install script
+[21.500s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/launch/move_group.launch.py
+[21.511s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/launch/move_group.rviz
+[21.523s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/launch/ur_moveit.launch.py
+[21.533s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/lib/moveit_tools/add_collision_ground_plane
+[21.545s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/ament_index/resource_index/package_run_dependencies/moveit_tools
+[21.555s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/ament_index/resource_index/parent_prefix_path/moveit_tools
+[21.565s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/environment/ament_prefix_path.sh
+[21.575s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/environment/ament_prefix_path.dsv
+[21.585s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/environment/path.sh
+[21.595s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/environment/path.dsv
+[21.604s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/local_setup.bash
+[21.616s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/local_setup.sh
+[21.628s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/local_setup.zsh
+[21.638s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/local_setup.dsv
+[21.649s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/package.dsv
+[21.659s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/ament_index/resource_index/packages/moveit_tools
+[21.668s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/cmake/moveit_toolsConfig.cmake
+[21.678s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/cmake/moveit_toolsConfig-version.cmake
+[21.688s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/package.xml
+[21.700s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/moveit_tools' returned '0': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/moveit_tools

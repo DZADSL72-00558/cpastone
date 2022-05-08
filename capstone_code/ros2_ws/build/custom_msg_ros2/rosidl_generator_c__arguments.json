@@ -1,0 +1,24 @@
+{
+  "package_name": "custom_msg_ros2",
+  "output_dir": "/home/bofengluo/ros2_ws/build/custom_msg_ros2/rosidl_generator_c/custom_msg_ros2",
+  "template_dir": "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../resource",
+  "idl_tuples": [
+    "/home/bofengluo/ros2_ws/build/custom_msg_ros2/rosidl_adapter/custom_msg_ros2:msg/CustomMessage.idl"
+  ],
+  "target_dependencies": [
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../../../lib/python3.8/site-packages/rosidl_generator_c/__init__.py",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../resource/action__type_support.h.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl.h.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl__functions.c.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl__functions.h.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl__struct.h.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../resource/idl__type_support.h.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../resource/msg__functions.c.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../resource/msg__functions.h.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../resource/msg__struct.h.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../resource/msg__type_support.h.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_c/cmake/../resource/srv__type_support.h.em",
+    "/home/bofengluo/ros2_ws/build/custom_msg_ros2/rosidl_adapter/custom_msg_ros2/msg/CustomMessage.idl"
+  ]
+}

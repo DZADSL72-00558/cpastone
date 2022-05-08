@@ -1,0 +1,16 @@
+[0.089s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur_dashboard_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur_dashboard_msgs -- -j16 -l16
+[1.429s] [  0%] Built target ur_dashboard_msgs__cpp
+[1.436s] [ 12%] Built target ur_dashboard_msgs__rosidl_generator_c
+[1.439s] [ 24%] Built target ur_dashboard_msgs__rosidl_typesupport_introspection_cpp
+[1.440s] [ 36%] Built target ur_dashboard_msgs__rosidl_typesupport_cpp
+[1.441s] [ 59%] Built target ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp
+[1.441s] [ 60%] Built target ur_dashboard_msgs__rosidl_typesupport_c
+[1.442s] [ 72%] Built target ur_dashboard_msgs__rosidl_typesupport_introspection_c
+[1.443s] [ 84%] Built target ur_dashboard_msgs__rosidl_typesupport_fastrtps_c
+[1.448s] [ 84%] Built target ur_dashboard_msgs
+[1.463s] [ 85%] Built target ur_dashboard_msgs__py
+[1.464s] [ 96%] Built target ur_dashboard_msgs__python
+[1.465s] [ 97%] Built target ur_dashboard_msgs__rosidl_typesupport_c__pyext
+[1.465s] [ 99%] Built target ur_dashboard_msgs__rosidl_typesupport_introspection_c__pyext
+[1.465s] [100%] Built target ur_dashboard_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.516s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur_dashboard_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur_dashboard_msgs -- -j16 -l16

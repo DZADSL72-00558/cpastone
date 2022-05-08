@@ -1,0 +1,7 @@
+  ros1_package_name: 'custom_msgs'
+  ros1_message_name: 'TestNoetic'
+  ros2_package_name: 'custom_msgs'
+  ros2_message_name: 'TestFoxy'
+  fields_1_to_2:
+    test_str1: 'test_str2'
+    test_int1: 'test_int2'

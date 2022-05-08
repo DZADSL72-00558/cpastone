@@ -1,0 +1,27 @@
+[0.279s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur_moveit_config -- -j16 -l16
+[1.940s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur_moveit_config -- -j16 -l16
+[2.196s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/ur_moveit_config
+[2.379s] -- Install configuration: ""
+[2.396s] -- Execute custom install script
+[2.396s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/config/controllers.yaml
+[2.399s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/config/kinematics.yaml
+[2.403s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/config/ompl_planning.yaml
+[2.411s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/rviz/view_robot.rviz
+[2.426s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/srdf/ur.srdf.xacro
+[2.428s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/srdf/ur_macro.srdf.xacro
+[2.435s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ament_index/resource_index/package_run_dependencies/ur_moveit_config
+[2.436s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ament_index/resource_index/parent_prefix_path/ur_moveit_config
+[2.442s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/environment/ament_prefix_path.sh
+[2.442s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/environment/ament_prefix_path.dsv
+[2.452s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/environment/path.sh
+[2.456s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/environment/path.dsv
+[2.456s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/local_setup.bash
+[2.466s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/local_setup.sh
+[2.475s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/local_setup.zsh
+[2.478s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/local_setup.dsv
+[2.485s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/package.dsv
+[2.623s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ament_index/resource_index/packages/ur_moveit_config
+[2.623s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/cmake/ur_moveit_configConfig.cmake
+[2.625s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/cmake/ur_moveit_configConfig-version.cmake
+[2.635s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_moveit_config/share/ur_moveit_config/package.xml
+[2.868s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/ur_moveit_config

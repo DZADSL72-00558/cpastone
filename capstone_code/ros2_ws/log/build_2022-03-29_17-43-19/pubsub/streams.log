@@ -1,0 +1,85 @@
+[0.016s] Invoking command in '/home/bofengluo/ros2_ws/build/pubsub': AMENT_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/bofengluo/ros2_ws/src/pubsub -DCMAKE_INSTALL_PREFIX=/home/bofengluo/ros2_ws/install/pubsub
+[0.088s] -- The C compiler identification is GNU 9.4.0
+[0.155s] -- The CXX compiler identification is GNU 9.4.0
+[0.163s] -- Check for working C compiler: /usr/bin/cc
+[0.252s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.254s] -- Detecting C compiler ABI info
+[0.350s] -- Detecting C compiler ABI info - done
+[0.364s] -- Detecting C compile features
+[0.364s] -- Detecting C compile features - done
+[0.366s] -- Check for working CXX compiler: /usr/bin/c++
+[0.460s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.463s] -- Detecting CXX compiler ABI info
+[0.552s] -- Detecting CXX compiler ABI info - done
+[0.566s] -- Detecting CXX compile features
+[0.567s] -- Detecting CXX compile features - done
+[0.568s] -- Found ament_cmake: 0.9.9 (/home/bofengluo/ros2_foxy/ros2-linux/share/ament_cmake/cmake)
+[0.594s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.594s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.778s] -- Found rclcpp: 2.4.1 (/home/bofengluo/ros2_foxy/ros2-linux/share/rclcpp/cmake)
+[0.814s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_connext_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.819s] -- Found rosidl_adapter: 1.2.1 (/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_adapter/cmake)
+[0.839s] -- Could not find RTI Connext - skipping rosidl_typesupport_connext_c
+[0.849s] -- Could not find RTI Connext - skipping rosidl_typesupport_connext_cpp
+[0.985s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.020s] -- Found FastRTPS: /home/bofengluo/ros2_foxy/ros2-linux/include  
+[1.087s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_connext_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.133s] -- Found rmw_implementation_cmake: 1.0.3 (/home/bofengluo/ros2_foxy/ros2-linux/share/rmw_implementation_cmake/cmake)
+[1.134s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.135s] -- Looking for pthread.h
+[1.236s] -- Looking for pthread.h - found
+[1.236s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.319s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[1.319s] -- Looking for pthread_create in pthreads
+[1.405s] -- Looking for pthread_create in pthreads - not found
+[1.406s] -- Looking for pthread_create in pthread
+[1.504s] -- Looking for pthread_create in pthread - found
+[1.506s] -- Found Threads: TRUE  
+[1.590s] -- Found custom_msg_ros2: 0.0.0 (/home/bofengluo/ros2_ws/install/custom_msg_ros2/share/custom_msg_ros2/cmake)
+[1.598s] -- Found ament_lint_auto: 0.9.6 (/home/bofengluo/ros2_foxy/ros2-linux/share/ament_lint_auto/cmake)
+[1.675s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.676s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.676s] -- Configured cppcheck include dirs: 
+[1.677s] -- Configured cppcheck exclude dirs and/or files: 
+[1.677s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.677s] -- Configured cpplint exclude dirs and/or files: 
+[1.677s] -- Added test 'lint_cmake' to check CMake code style
+[1.678s] -- Added test 'uncrustify' to check C / C++ code style
+[1.678s] -- Configured uncrustify additional arguments: 
+[1.678s] -- Added test 'xmllint' to check XML markup files
+[1.680s] -- Configuring done
+[1.688s] -- Generating done
+[1.689s] -- Build files have been written to: /home/bofengluo/ros2_ws/build/pubsub
+[1.696s] Invoked command in '/home/bofengluo/ros2_ws/build/pubsub' returned '0': AMENT_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake /home/bofengluo/ros2_ws/src/pubsub -DCMAKE_INSTALL_PREFIX=/home/bofengluo/ros2_ws/install/pubsub
+[1.701s] Invoking command in '/home/bofengluo/ros2_ws/build/pubsub': AMENT_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/bofengluo/ros2_ws/build/pubsub -- -j16 -l16
+[1.745s] [35m[1mScanning dependencies of target listener[0m
+[1.752s] [35m[1mScanning dependencies of target talker[0m
+[1.782s] [ 25%] [32mBuilding CXX object CMakeFiles/listener.dir/src/listener.cpp.o[0m
+[1.788s] [ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[4.314s] [ 75%] [32m[1mLinking CXX executable talker[0m
+[4.471s] [ 75%] Built target talker
+[5.577s] [100%] [32m[1mLinking CXX executable listener[0m
+[5.787s] [100%] Built target listener
+[5.802s] Invoked command in '/home/bofengluo/ros2_ws/build/pubsub' returned '0': AMENT_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/bofengluo/ros2_ws/build/pubsub -- -j16 -l16
+[5.829s] Invoking command in '/home/bofengluo/ros2_ws/build/pubsub': AMENT_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/bofengluo/ros2_ws/build/pubsub
+[5.840s] -- Install configuration: ""
+[5.840s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/lib/pubsub/listener
+[5.842s] -- Set runtime path of "/home/bofengluo/ros2_ws/install/pubsub/lib/pubsub/listener" to ""
+[5.842s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/lib/pubsub/talker
+[5.842s] -- Set runtime path of "/home/bofengluo/ros2_ws/install/pubsub/lib/pubsub/talker" to ""
+[5.843s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/ament_index/resource_index/package_run_dependencies/pubsub
+[5.843s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/ament_index/resource_index/parent_prefix_path/pubsub
+[5.843s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/pubsub/environment/ament_prefix_path.sh
+[5.843s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/pubsub/environment/ament_prefix_path.dsv
+[5.844s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/pubsub/environment/path.sh
+[5.844s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/pubsub/environment/path.dsv
+[5.844s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/pubsub/local_setup.bash
+[5.844s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/pubsub/local_setup.sh
+[5.844s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/pubsub/local_setup.zsh
+[5.844s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/pubsub/local_setup.dsv
+[5.845s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/pubsub/package.dsv
+[5.845s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/ament_index/resource_index/packages/pubsub
+[5.846s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/pubsub/cmake/pubsubConfig.cmake
+[5.846s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/pubsub/cmake/pubsubConfig-version.cmake
+[5.846s] -- Installing: /home/bofengluo/ros2_ws/install/pubsub/share/pubsub/package.xml
+[5.850s] Invoked command in '/home/bofengluo/ros2_ws/build/pubsub' returned '0': AMENT_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/bofengluo/ros2_ws/build/pubsub

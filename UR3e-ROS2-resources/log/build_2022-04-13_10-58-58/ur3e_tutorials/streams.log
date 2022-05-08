@@ -1,0 +1,24 @@
+[0.029s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur3e_tutorials': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur3e_tutorials -- -j16 -l16
+[0.121s] [100%] Built target move_group_interface_tutorial
+[0.145s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur3e_tutorials' returned '0': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur3e_tutorials -- -j16 -l16
+[0.172s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur3e_tutorials': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/ur3e_tutorials
+[0.180s] -- Install configuration: "Release"
+[0.181s] -- Execute custom install script
+[0.182s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/launch/move_group_interface_tutorial.launch.py
+[0.183s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/lib/ur3e_tutorials/move_group_interface_tutorial
+[0.183s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ament_index/resource_index/package_run_dependencies/ur3e_tutorials
+[0.184s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ament_index/resource_index/parent_prefix_path/ur3e_tutorials
+[0.184s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/environment/ament_prefix_path.sh
+[0.185s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/environment/ament_prefix_path.dsv
+[0.185s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/environment/path.sh
+[0.185s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/environment/path.dsv
+[0.186s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/local_setup.bash
+[0.186s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/local_setup.sh
+[0.187s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/local_setup.zsh
+[0.187s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/local_setup.dsv
+[0.187s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/package.dsv
+[0.201s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ament_index/resource_index/packages/ur3e_tutorials
+[0.202s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/cmake/ur3e_tutorialsConfig.cmake
+[0.202s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/cmake/ur3e_tutorialsConfig-version.cmake
+[0.202s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/package.xml
+[0.221s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur3e_tutorials' returned '0': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/ur3e_tutorials

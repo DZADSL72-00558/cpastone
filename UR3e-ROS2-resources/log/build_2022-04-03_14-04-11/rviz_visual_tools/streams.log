@@ -1,0 +1,74 @@
+[0.095s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools -- -j16 -l16
+[1.559s] [  2%] [34m[1mAutomatic MOC for target gtest[0m
+[1.559s] [  5%] [34m[1mAutomatic MOC for target rviz_visual_tools_remote_control[0m
+[1.559s] [  7%] [34m[1mAutomatic MOC for target gtest_main[0m
+[1.560s] [ 10%] [34m[1mAutomatic MOC for target rviz_visual_tools_gui[0m
+[1.562s] [ 10%] Built target rviz_visual_tools_remote_control_autogen
+[1.562s] [ 10%] Built target gtest_main_autogen
+[1.562s] [ 10%] Built target gtest_autogen
+[1.563s] [ 10%] Built target rviz_visual_tools_gui_autogen
+[1.563s] [ 23%] Built target gtest
+[1.563s] [ 25%] Built target gtest_main
+[1.564s] [ 33%] Built target rviz_visual_tools_remote_control
+[1.564s] [ 35%] [32m[1mLinking CXX shared library librviz_visual_tools_gui.so[0m
+[1.564s] [ 38%] [34m[1mAutomatic MOC for target rviz_visual_tools[0m
+[1.565s] [ 38%] Built target rviz_visual_tools_autogen
+[1.565s] [ 48%] Built target rviz_visual_tools
+[1.565s] [ 51%] [34m[1mAutomatic MOC for target rviz_visual_tools_demo[0m
+[1.565s] [ 53%] [34m[1mAutomatic MOC for target rviz_visual_tools_rvt_test[0m
+[1.565s] [ 56%] [34m[1mAutomatic MOC for target rviz_visual_tools_imarker_simple[0m
+[1.567s] [ 56%] Built target rviz_visual_tools_demo_autogen
+[1.567s] [ 56%] Built target rviz_visual_tools_rvt_test_autogen
+[1.567s] [ 56%] Built target rviz_visual_tools_imarker_simple_autogen
+[1.567s] [ 76%] Built target rviz_visual_tools_imarker_simple
+[1.567s] [ 79%] Built target rviz_visual_tools_demo
+[1.567s] [ 79%] Built target rviz_visual_tools_rvt_test
+[1.568s] [ 82%] [34m[1mAutomatic MOC for target rviz_visual_tools_imarker_simple_demo[0m
+[1.569s] [ 82%] Built target rviz_visual_tools_imarker_simple_demo_autogen
+[1.570s] [ 89%] Built target rviz_visual_tools_imarker_simple_demo
+[4.455s] [100%] Built target rviz_visual_tools_gui
+[4.465s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools -- -j16 -l16
+[4.524s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools
+[4.531s] -- Install configuration: ""
+[4.532s] -- Execute custom install script
+[4.532s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools//plugin_description.xml
+[4.533s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib/rviz_visual_tools/rviz_visual_tools_demo
+[4.533s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib/rviz_visual_tools/rviz_visual_tools_imarker_simple_demo
+[4.534s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/include/rviz_visual_tools/imarker_simple.hpp
+[4.534s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/include/rviz_visual_tools/key_tool.hpp
+[4.534s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/include/rviz_visual_tools/remote_control.hpp
+[4.535s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/include/rviz_visual_tools/remote_reciever.hpp
+[4.535s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/include/rviz_visual_tools/rviz_visual_tools.hpp
+[4.535s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/include/rviz_visual_tools/rviz_visual_tools_gui.hpp
+[4.535s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/include/rviz_visual_tools/tf_visual_tools.hpp
+[4.536s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/launch/demo.rviz
+[4.536s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/launch/demo_combined.launch.py
+[4.537s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/launch/demo_rviz.launch.py
+[4.537s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/launch/rvt_test.launch
+[4.537s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/environment/library_path.sh
+[4.537s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/environment/library_path.dsv
+[4.538s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/ament_index/resource_index/package_run_dependencies/rviz_visual_tools
+[4.538s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/ament_index/resource_index/parent_prefix_path/rviz_visual_tools
+[4.539s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/environment/ament_prefix_path.sh
+[4.539s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/environment/ament_prefix_path.dsv
+[4.539s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/environment/path.sh
+[4.540s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/environment/path.dsv
+[4.540s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/local_setup.bash
+[4.540s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/local_setup.sh
+[4.540s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/local_setup.zsh
+[4.541s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/local_setup.dsv
+[4.541s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/package.dsv
+[4.553s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/ament_index/resource_index/packages/rviz_visual_tools
+[4.554s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/ament_index/resource_index/rviz_common__pluginlib__plugin/rviz_visual_tools
+[4.554s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.555s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.555s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/cmake/ament_cmake_export_libraries-extras.cmake
+[4.556s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/cmake/rviz_visual_toolsConfig.cmake
+[4.556s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/cmake/rviz_visual_toolsConfig-version.cmake
+[4.557s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/share/rviz_visual_tools/package.xml
+[4.558s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib/librviz_visual_tools.so
+[4.559s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib/librviz_visual_tools_remote_control.so
+[4.561s] -- Installing: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib/librviz_visual_tools_gui.so
+[4.564s] -- Set runtime path of "/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib/librviz_visual_tools_gui.so" to ""
+[4.564s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib/librviz_visual_tools_imarker_simple.so
+[4.568s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools

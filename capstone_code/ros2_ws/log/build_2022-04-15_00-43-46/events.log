@@ -1,0 +1,50 @@
+[0.000000] (-) TimerEvent: {}
+[0.001172] (-) JobUnselected: {'identifier': 'custom_msgs'}
+[0.001953] (-) JobUnselected: {'identifier': 'pubsub'}
+[0.002075] (ros1_bridge) JobQueued: {'identifier': 'ros1_bridge', 'dependencies': OrderedDict([('custom_msgs', '/home/bofengluo/ros2_ws/install/custom_msgs')])}
+[0.002328] (ros1_bridge) JobStarted: {'identifier': 'ros1_bridge'}
+[0.020869] (ros1_bridge) JobProgress: {'identifier': 'ros1_bridge', 'progress': 'cmake'}
+[0.023346] (ros1_bridge) Command: {'cmd': ['/usr/bin/cmake', '/home/bofengluo/ros2_ws/src/ros1_bridge', '-DCMAKE_INSTALL_PREFIX=/home/bofengluo/ros2_ws/install/ros1_bridge'], 'cwd': '/home/bofengluo/ros2_ws/build/ros1_bridge', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'bofengluo'), ('SSH_AGENT_PID', '1428'), ('ROS_PACKAGE_PATH', '/home/bofengluo/catkin_ws/src:/opt/ros/noetic/share'), ('XDG_SESSION_TYPE', 'x11'), ('ROS_ETC_DIR', '/opt/ros/noetic/etc/ros'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/bofengluo/ros2_ws/install/custom_msgs/lib:/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib:/home/bofengluo/catkin_ws/devel/lib:/opt/ros/noetic/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:/home/bofengluo/ros2_foxy/ros2-linux/opt/yaml_cpp_vendor/lib:/home/bofengluo/ros2_foxy/ros2-linux/opt/rviz_ogre_vendor/lib:/home/bofengluo/ros2_foxy/ros2-linux/lib'), ('HOME', '/home/bofengluo'), ('OLDPWD', '/home/bofengluo/ros2_ws/src'), ('DESKTOP_SESSION', 'ubuntu'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('MANAGERPID', '1145'), ('DBUS_STARTER_BUS_TYPE', 'session'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus,guid=9b03e25d6f2164cc018f9af66258a3be'), ('COLORTERM', 'truecolor'), ('MANDATORY_PATH', '/usr/share/gconf/ubuntu.mandatory.path'), ('IM_CONFIG_PHASE', '1'), ('COLCON_PREFIX_PATH', '/home/bofengluo/ros2_ws/install:/home/bofengluo/ros2_foxy/ros2-linux'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'bofengluo'), ('JOURNAL_STREAM', '8:52370'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('PKG_CONFIG_PATH', '/home/bofengluo/catkin_ws/devel/lib/pkgconfig:/opt/ros/noetic/lib/pkgconfig:/opt/ros/noetic/lib/x86_64-linux-gnu/pkgconfig:/home/bofengluo/ros2_foxy/ros2-linux/lib/x86_64-linux-gnu/pkgconfig:/home/bofengluo/ros2_foxy/ros2-linux/lib/pkgconfig'), ('XDG_SESSION_CLASS', 'user'), ('DEFAULTS_PATH', '/usr/share/gconf/ubuntu.default.path'), ('USERNAME', 'bofengluo'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/noetic/bin:/home/bofengluo/ros2_foxy/ros2-linux/bin:/home/bofengluo/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('SESSION_MANAGER', 'local/bofengluo-Lenovo-Legion-R9000X-2021:@/tmp/.ICE-unix/1496,unix/bofengluo-Lenovo-Legion-R9000X-2021:/tmp/.ICE-unix/1496'), ('INVOCATION_ID', 'fae474b868c946f68d5aa98a7d765625'), ('XDG_MENU_PREFIX', 'gnome-'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/66b3b875_5286_4ac0_90d5_edd3a6c2cbd9'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':0'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('XMODIFIERS', '@im=ibus'), ('ROSLISP_PACKAGE_DIRECTORIES', '/home/bofengluo/catkin_ws/devel/share/common-lisp'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.349'), ('ROS_ROOT', '/opt/ros/noetic/share/ros'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/home/bofengluo/ros2_ws/install/pubsub:/home/bofengluo/ros2_ws/install/custom_msgs:/home/bofengluo/ros2_ws/install/custom_msg_ros2:/home/bofengluo/ros2_foxy/ros2-linux'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('ROS_MASTER_URI', 'http://localhost:11311'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/bofengluo/ros2_ws/build/ros1_bridge'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('DBUS_STARTER_ADDRESS', 'unix:path=/run/user/1000/bus,guid=9b03e25d6f2164cc018f9af66258a3be'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/bofengluo/ros2_ws/install/custom_msgs/lib/python3.8/site-packages:/home/bofengluo/ros2_ws/install/custom_msg_ros2/lib/python3.8/site-packages:/home/bofengluo/catkin_ws/devel/lib/python3/dist-packages:/opt/ros/noetic/lib/python3/dist-packages:/home/bofengluo/ros2_foxy/ros2-linux/lib/python3.8/site-packages'), ('COLCON', '1'), ('VTE_VERSION', '6003'), ('CMAKE_PREFIX_PATH', '/home/bofengluo/ros2_ws/install/custom_msgs:/home/bofengluo/ros2_ws/install/pubsub:/home/bofengluo/ros2_ws/install/custom_msg_ros2:/home/bofengluo/catkin_ws/devel:/opt/ros/noetic:/home/bofengluo/ros2_foxy/ros2-linux')]), 'shell': False}
+[0.041841] (ros1_bridge) StdoutLine: {'line': b'-- Found rmw: 1.0.3 (/home/bofengluo/ros2_foxy/ros2-linux/share/rmw/cmake)\n'}
+[0.066885] (ros1_bridge) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") \n'}
+[0.067365] (ros1_bridge) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python3\n'}
+[0.099633] (-) TimerEvent: {}
+[0.200347] (-) TimerEvent: {}
+[0.272295] (ros1_bridge) StdoutLine: {'line': b'-- Found rclcpp: 2.4.1 (/home/bofengluo/ros2_foxy/ros2-linux/share/rclcpp/cmake)\n'}
+[0.283579] (ros1_bridge) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_connext_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[0.286444] (ros1_bridge) StdoutLine: {'line': b'-- Found rosidl_adapter: 1.2.1 (/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_adapter/cmake)\n'}
+[0.300494] (-) TimerEvent: {}
+[0.306426] (ros1_bridge) StdoutLine: {'line': b'-- Could not find RTI Connext - skipping rosidl_typesupport_connext_c\n'}
+[0.311689] (ros1_bridge) StdoutLine: {'line': b'-- Could not find RTI Connext - skipping rosidl_typesupport_connext_cpp\n'}
+[0.400639] (-) TimerEvent: {}
+[0.453183] (ros1_bridge) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_connext_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[0.494716] (ros1_bridge) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 1.0.3 (/home/bofengluo/ros2_foxy/ros2-linux/share/rmw_implementation_cmake/cmake)\n'}
+[0.496102] (ros1_bridge) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[0.500792] (-) TimerEvent: {}
+[0.601166] (-) TimerEvent: {}
+[0.701688] (-) TimerEvent: {}
+[0.802250] (-) TimerEvent: {}
+[0.902781] (-) TimerEvent: {}
+[1.003156] (-) TimerEvent: {}
+[1.103554] (-) TimerEvent: {}
+[1.204042] (-) TimerEvent: {}
+[1.304482] (-) TimerEvent: {}
+[1.404944] (-) TimerEvent: {}
+[1.458941] (ros1_bridge) StdoutLine: {'line': b'-- Found ament_lint_auto: 0.9.6 (/home/bofengluo/ros2_foxy/ros2-linux/share/ament_lint_auto/cmake)\n'}
+[1.505067] (-) TimerEvent: {}
+[1.563666] (ros1_bridge) StdoutLine: {'line': b'-- Found python_cmake_module: 0.8.1 (/home/bofengluo/ros2_foxy/ros2-linux/share/python_cmake_module/cmake)\n'}
+[1.586676] (ros1_bridge) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") \n'}
+[1.591134] (ros1_bridge) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python3\n'}
+[1.591491] (ros1_bridge) StdoutLine: {'line': b'-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8\n'}
+[1.591704] (ros1_bridge) StdoutLine: {'line': b'-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so\n'}
+[1.605239] (-) TimerEvent: {}
+[1.612299] (ros1_bridge) StderrLine: {'line': b'CMake Error at CMakeLists.txt:75 (message):\n'}
+[1.612599] (ros1_bridge) StderrLine: {'line': b"  Failed to find ROS 2 package 'diagnostic_msgs'\n"}
+[1.612737] (ros1_bridge) StderrLine: {'line': b'\n'}
+[1.612842] (ros1_bridge) StderrLine: {'line': b'\n'}
+[1.613258] (ros1_bridge) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[1.613391] (ros1_bridge) StdoutLine: {'line': b'See also "/home/bofengluo/ros2_ws/build/ros1_bridge/CMakeFiles/CMakeOutput.log".\n'}
+[1.613500] (ros1_bridge) StdoutLine: {'line': b'See also "/home/bofengluo/ros2_ws/build/ros1_bridge/CMakeFiles/CMakeError.log".\n'}
+[1.620949] (ros1_bridge) CommandEnded: {'returncode': 1}
+[1.661701] (ros1_bridge) JobEnded: {'identifier': 'ros1_bridge', 'rc': 1}
+[1.672733] (-) EventReactorShutdown: {}

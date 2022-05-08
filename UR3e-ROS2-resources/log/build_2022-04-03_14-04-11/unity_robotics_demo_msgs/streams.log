@@ -1,0 +1,189 @@
+[1.163s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo_msgs -- -j16 -l16
+[1.531s] [  1%] Built target unity_robotics_demo_msgs__cpp
+[1.532s] [ 12%] Built target unity_robotics_demo_msgs__rosidl_generator_c
+[1.532s] [ 34%] Built target unity_robotics_demo_msgs__rosidl_typesupport_cpp
+[1.533s] [ 34%] Built target unity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp
+[1.536s] [ 58%] Built target unity_robotics_demo_msgs__rosidl_typesupport_c
+[1.548s] [ 58%] Built target unity_robotics_demo_msgs__rosidl_typesupport_introspection_c
+[1.549s] [ 67%] Built target unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp
+[1.549s] [ 78%] Built target unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c
+[1.549s] [ 78%] Built target unity_robotics_demo_msgs
+[1.564s] [ 80%] Built target unity_robotics_demo_msgs__py
+[1.568s] [ 89%] Built target unity_robotics_demo_msgs__python
+[1.575s] [ 92%] Built target unity_robotics_demo_msgs__rosidl_typesupport_introspection_c__pyext
+[1.592s] [100%] Built target unity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.593s] [100%] Built target unity_robotics_demo_msgs__rosidl_typesupport_c__pyext
+[1.641s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo_msgs -- -j16 -l16
+[2.272s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo_msgs
+[2.375s] -- Install configuration: ""
+[2.375s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/ament_index/resource_index/rosidl_interfaces/unity_robotics_demo_msgs
+[2.375s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs
+[2.376s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg
+[2.376s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/unity_color.h
+[2.376s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail
+[2.376s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__struct.h
+[2.376s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__struct.h
+[2.378s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__functions.c
+[2.379s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__functions.h
+[2.380s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__functions.h
+[2.380s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__type_support.h
+[2.380s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__type_support.h
+[2.380s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__functions.c
+[2.380s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/pos_rot.h
+[2.381s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/rosidl_generator_c__visibility_control.h
+[2.383s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv
+[2.384s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail
+[2.384s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__type_support.h
+[2.384s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__struct.h
+[2.384s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__functions.c
+[2.385s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__type_support.h
+[2.385s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__struct.h
+[2.386s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__functions.c
+[2.386s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__functions.h
+[2.387s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__functions.h
+[2.387s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/position_service.h
+[2.387s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/object_pose_service.h
+[2.388s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/library_path.sh
+[2.388s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/library_path.dsv
+[2.388s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_generator_c.so
+[2.389s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs
+[2.392s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg
+[2.394s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.394s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail
+[2.395s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__rosidl_typesupport_fastrtps_c.h
+[2.395s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__rosidl_typesupport_fastrtps_c.h
+[2.397s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv
+[2.397s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail
+[2.397s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__rosidl_typesupport_fastrtps_c.h
+[2.398s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__rosidl_typesupport_fastrtps_c.h
+[2.398s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_fastrtps_c.so
+[2.398s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs
+[2.398s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg
+[2.399s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.399s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail
+[2.399s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__rosidl_typesupport_fastrtps_cpp.hpp
+[2.400s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__rosidl_typesupport_fastrtps_cpp.hpp
+[2.400s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/dds_fastrtps
+[2.400s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv
+[2.400s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail
+[2.401s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/dds_fastrtps
+[2.401s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__rosidl_typesupport_fastrtps_cpp.hpp
+[2.401s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__rosidl_typesupport_fastrtps_cpp.hpp
+[2.403s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_fastrtps_cpp.so
+[2.404s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs
+[2.404s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg
+[2.405s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail
+[2.405s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__rosidl_typesupport_introspection_c.h
+[2.405s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__type_support.c
+[2.405s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__rosidl_typesupport_introspection_c.h
+[2.406s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__type_support.c
+[2.407s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.407s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv
+[2.407s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail
+[2.408s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__type_support.c
+[2.409s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__rosidl_typesupport_introspection_c.h
+[2.411s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__type_support.c
+[2.424s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__rosidl_typesupport_introspection_c.h
+[2.430s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_introspection_c.so
+[2.431s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_c.so
+[2.435s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs
+[2.438s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg
+[2.439s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/unity_color.hpp
+[2.439s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail
+[2.440s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__struct.hpp
+[2.446s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__builder.hpp
+[2.447s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__traits.hpp
+[2.452s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__traits.hpp
+[2.455s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__builder.hpp
+[2.455s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__struct.hpp
+[2.456s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/pos_rot.hpp
+[2.456s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv
+[2.457s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/object_pose_service.hpp
+[2.458s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/position_service.hpp
+[2.460s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail
+[2.460s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__struct.hpp
+[2.460s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__traits.hpp
+[2.460s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__traits.hpp
+[2.461s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__struct.hpp
+[2.461s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__builder.hpp
+[2.462s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__builder.hpp
+[2.463s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs
+[2.463s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg
+[2.463s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail
+[2.464s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__rosidl_typesupport_introspection_cpp.hpp
+[2.464s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__type_support.cpp
+[2.464s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/pos_rot__type_support.cpp
+[2.464s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/msg/detail/unity_color__rosidl_typesupport_introspection_cpp.hpp
+[2.465s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv
+[2.473s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail
+[2.479s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__type_support.cpp
+[2.480s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__rosidl_typesupport_introspection_cpp.hpp
+[2.480s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/position_service__type_support.cpp
+[2.481s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/include/unity_robotics_demo_msgs/srv/detail/object_pose_service__rosidl_typesupport_introspection_cpp.hpp
+[2.482s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_introspection_cpp.so
+[2.483s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__rosidl_typesupport_cpp.so
+[2.483s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/pythonpath.sh
+[2.483s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/pythonpath.dsv
+[2.483s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/__init__.py
+[2.567s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/msg
+[2.567s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/msg/_pos_rot.py
+[2.568s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/msg/_pos_rot_s.c
+[2.568s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/msg/__init__.py
+[2.568s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/msg/_unity_color_s.c
+[2.573s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/msg/_unity_color.py
+[2.575s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/srv
+[2.576s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/srv/_position_service.py
+[2.577s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/srv/__init__.py
+[2.583s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/srv/_object_pose_service_s.c
+[2.584s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/srv/_object_pose_service.py
+[2.584s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/srv/_position_service_s.c
+[2.585s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[2.588s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[2.589s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/python3.8/site-packages/unity_robotics_demo_msgs/unity_robotics_demo_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[2.592s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/lib/libunity_robotics_demo_msgs__python.so
+[2.592s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/msg/PosRot.idl
+[2.593s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/msg/UnityColor.idl
+[2.593s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/PositionService.idl
+[2.593s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/ObjectPoseService.idl
+[2.593s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/msg/PosRot.msg
+[2.594s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/msg/UnityColor.msg
+[2.594s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/PositionService.srv
+[2.595s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/PositionService_Request.msg
+[2.613s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/PositionService_Response.msg
+[2.614s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/ObjectPoseService.srv
+[2.615s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/ObjectPoseService_Request.msg
+[2.617s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/srv/ObjectPoseService_Response.msg
+[2.619s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/ament_index/resource_index/package_run_dependencies/unity_robotics_demo_msgs
+[2.623s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/ament_index/resource_index/parent_prefix_path/unity_robotics_demo_msgs
+[2.624s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/ament_prefix_path.sh
+[2.624s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/ament_prefix_path.dsv
+[2.625s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/path.sh
+[2.629s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/environment/path.dsv
+[2.632s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/local_setup.bash
+[2.633s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/local_setup.sh
+[2.633s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/local_setup.zsh
+[2.633s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/local_setup.dsv
+[2.634s] -- Installing: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/package.dsv
+[2.634s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/ament_index/resource_index/packages/unity_robotics_demo_msgs
+[2.634s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_generator_cExport.cmake
+[2.634s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_generator_cExport-noconfig.cmake
+[2.634s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_introspection_cExport.cmake
+[2.634s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.636s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_cExport.cmake
+[2.636s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[2.647s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_generator_cppExport.cmake
+[2.649s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[2.649s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.650s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_cppExport.cmake
+[2.650s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[2.651s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/rosidl_cmake-extras.cmake
+[2.651s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.651s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[2.651s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[2.663s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.673s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.675s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.676s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgsConfig.cmake
+[2.677s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/cmake/unity_robotics_demo_msgsConfig-version.cmake
+[2.677s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs/share/unity_robotics_demo_msgs/package.xml
+[2.745s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo_msgs

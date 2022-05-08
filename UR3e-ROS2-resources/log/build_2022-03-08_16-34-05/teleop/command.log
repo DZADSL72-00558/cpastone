@@ -1,0 +1,6 @@
+Invoking command in '/home/zpw/UR3e-ROS2-resources/build/teleop': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/zpw/UR3e-ROS2-resources/src/teleop -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zpw/UR3e-ROS2-resources/install/teleop
+Invoked command in '/home/zpw/UR3e-ROS2-resources/build/teleop' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/zpw/UR3e-ROS2-resources/src/teleop -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zpw/UR3e-ROS2-resources/install/teleop
+Invoking command in '/home/zpw/UR3e-ROS2-resources/build/teleop': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/teleop -- -j16 -l16
+Invoked command in '/home/zpw/UR3e-ROS2-resources/build/teleop' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/teleop -- -j16 -l16
+Invoking command in '/home/zpw/UR3e-ROS2-resources/build/teleop': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/teleop
+Invoked command in '/home/zpw/UR3e-ROS2-resources/build/teleop' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/teleop

@@ -1,0 +1,22 @@
+[3.432s] Invoking command in '/home/zpw/UR3e-ROS2-resources/src/unity_robotics_demo': PYTHONPATH=/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/unity_robotics_demo build --build-base /home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo/build install --prefix /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo --record /home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo/install.log --single-version-externally-managed
+[3.829s] running egg_info
+[3.831s] writing ../../build/unity_robotics_demo/unity_robotics_demo.egg-info/PKG-INFO
+[3.831s] writing dependency_links to ../../build/unity_robotics_demo/unity_robotics_demo.egg-info/dependency_links.txt
+[3.832s] writing entry points to ../../build/unity_robotics_demo/unity_robotics_demo.egg-info/entry_points.txt
+[3.832s] writing requirements to ../../build/unity_robotics_demo/unity_robotics_demo.egg-info/requires.txt
+[3.832s] writing top-level names to ../../build/unity_robotics_demo/unity_robotics_demo.egg-info/top_level.txt
+[3.906s] reading manifest file '../../build/unity_robotics_demo/unity_robotics_demo.egg-info/SOURCES.txt'
+[3.907s] writing manifest file '../../build/unity_robotics_demo/unity_robotics_demo.egg-info/SOURCES.txt'
+[3.907s] running build
+[3.907s] running build_py
+[3.908s] running install
+[3.908s] running install_lib
+[3.911s] running install_data
+[3.913s] running install_egg_info
+[3.915s] removing '/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo/lib/python3.8/site-packages/unity_robotics_demo-0.0.1-py3.8.egg-info' (and everything under it)
+[3.915s] Copying ../../build/unity_robotics_demo/unity_robotics_demo.egg-info to /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo/lib/python3.8/site-packages/unity_robotics_demo-0.0.1-py3.8.egg-info
+[3.916s] running install_scripts
+[3.952s] Installing color_publisher script to /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo/lib/unity_robotics_demo
+[3.952s] Installing position_service script to /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo/lib/unity_robotics_demo
+[3.952s] writing list of installed files to '/home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo/install.log'
+[4.016s] Invoked command in '/home/zpw/UR3e-ROS2-resources/src/unity_robotics_demo' returned '0': PYTHONPATH=/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/unity_robotics_demo build --build-base /home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo/build install --prefix /home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo --record /home/zpw/UR3e-ROS2-resources/build/unity_robotics_demo/install.log --single-version-externally-managed

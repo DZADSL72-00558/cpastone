@@ -1,0 +1,8 @@
+prefix=/home/bofengluo/ros1_ws/devel
+
+Name: custom_msg_ros1
+Description: Description of custom_msg_ros1
+Version: 0.0.0
+Cflags: -I/home/bofengluo/ros1_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

@@ -1,0 +1,77 @@
+[0.806s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur_client_library': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur_client_library -- -j16 -l16
+[4.409s] [ 82%] Built target urcl
+[4.410s] [ 88%] Built target rtde_client_example
+[4.410s] [ 94%] Built target driver_example
+[4.410s] [100%] Built target primary_pipeline_example
+[4.528s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur_client_library' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur_client_library -- -j16 -l16
+[5.261s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur_client_library': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/ur_client_library
+[5.438s] -- Install configuration: "RelWithDebInfo"
+[5.439s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/lib/liburcl.so
+[5.440s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include
+[5.441s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library
+[5.441s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/log.h
+[5.442s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/types.h
+[5.443s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/ur
+[5.443s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/ur/tool_communication.h
+[5.444s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/ur/datatypes.h
+[5.445s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/ur/version_information.h
+[5.445s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/ur/dashboard_client.h
+[5.446s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/ur/calibration_checker.h
+[5.446s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/ur/ur_driver.h
+[5.447s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/control
+[5.448s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/control/script_sender.h
+[5.448s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/control/reverse_interface.h
+[5.449s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/control/trajectory_point_interface.h
+[5.450s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/comm
+[5.450s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/comm/tcp_socket.h
+[5.451s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/comm/bin_parser.h
+[5.451s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/comm/parser.h
+[5.451s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/comm/package.h
+[5.452s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/comm/producer.h
+[5.453s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/comm/package_serializer.h
+[5.455s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/comm/pipeline.h
+[5.455s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/comm/tcp_server.h
+[5.456s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/comm/shell_consumer.h
+[5.457s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/comm/stream.h
+[5.458s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/comm/control_mode.h
+[5.458s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/primary
+[5.459s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/primary/robot_message.h
+[5.460s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/primary/abstract_primary_consumer.h
+[5.468s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/primary/robot_message
+[5.469s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/primary/robot_message/version_message.h
+[5.474s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/primary/primary_parser.h
+[5.479s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/primary/package_header.h
+[5.481s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/primary/robot_state
+[5.482s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/primary/robot_state/kinematics_info.h
+[5.482s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/primary/primary_package.h
+[5.482s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/primary/robot_state.h
+[5.482s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/exceptions.h
+[5.483s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/default_log_handler.h
+[5.490s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/queue
+[5.503s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/queue/readerwriterqueue.h
+[5.505s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/queue/LICENSE.md
+[5.513s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/queue/atomicops.h
+[5.513s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde
+[5.514s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/control_package_setup_inputs.h
+[5.514s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/text_message.h
+[5.515s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/control_package_setup_outputs.h
+[5.516s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/get_urcontrol_version.h
+[5.519s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/rtde_parser.h
+[5.529s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/rtde_client.h
+[5.537s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/control_package_start.h
+[5.538s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/data_package.h
+[5.539s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/package_header.h
+[5.539s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/rtde_package.h
+[5.541s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/control_package_pause.h
+[5.541s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/rtde_writer.h
+[5.542s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/include/ur_client_library/rtde/request_protocol_version.h
+[5.542s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/lib/cmake/ur_client_library/urclTargets.cmake
+[5.542s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/lib/cmake/ur_client_library/urclTargets-relwithdebinfo.cmake
+[5.542s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/lib/cmake/ur_client_library/ur_client_libraryConfig.cmake
+[5.543s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/share/ur_client_library/package.xml
+[5.545s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/share/ament_index/resource_index/packages/ur_client_library
+[5.547s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/share/ur_client_library/hook/ament_prefix_path.dsv
+[5.549s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/share/ur_client_library/hook/ros_package_path.dsv
+[5.550s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/share/ur_client_library/resources
+[5.551s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_client_library/share/ur_client_library/resources/external_control.urscript
+[5.555s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur_client_library' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/ur_client_library

@@ -1,0 +1,25 @@
+[1.754s] Invoking command in '/home/zpw/UR3e-ROS2-resources/src/vr_connector': PYTHONPATH=/home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/vr_connector build --build-base /home/zpw/UR3e-ROS2-resources/build/vr_connector/build install --prefix /home/zpw/UR3e-ROS2-resources/install/vr_connector --record /home/zpw/UR3e-ROS2-resources/build/vr_connector/install.log --single-version-externally-managed
+[2.038s] running egg_info
+[2.039s] writing ../../build/vr_connector/vr_connector.egg-info/PKG-INFO
+[2.039s] writing dependency_links to ../../build/vr_connector/vr_connector.egg-info/dependency_links.txt
+[2.040s] writing entry points to ../../build/vr_connector/vr_connector.egg-info/entry_points.txt
+[2.040s] writing requirements to ../../build/vr_connector/vr_connector.egg-info/requires.txt
+[2.040s] writing top-level names to ../../build/vr_connector/vr_connector.egg-info/top_level.txt
+[2.083s] reading manifest file '../../build/vr_connector/vr_connector.egg-info/SOURCES.txt'
+[2.084s] writing manifest file '../../build/vr_connector/vr_connector.egg-info/SOURCES.txt'
+[2.085s] running build
+[2.085s] running build_py
+[2.085s] copying vr_connector/vr_talker.py -> /home/zpw/UR3e-ROS2-resources/build/vr_connector/build/lib/vr_connector
+[2.085s] running install
+[2.085s] running install_lib
+[2.085s] copying /home/zpw/UR3e-ROS2-resources/build/vr_connector/build/lib/vr_connector/vr_talker.py -> /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages/vr_connector
+[2.085s] byte-compiling /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages/vr_connector/vr_talker.py to vr_talker.cpython-38.pyc
+[2.087s] running install_data
+[2.087s] running install_egg_info
+[2.090s] removing '/home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages/vr_connector-0.0.0-py3.8.egg-info' (and everything under it)
+[2.090s] Copying ../../build/vr_connector/vr_connector.egg-info to /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages/vr_connector-0.0.0-py3.8.egg-info
+[2.092s] running install_scripts
+[2.118s] Installing listener script to /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/vr_connector
+[2.118s] Installing talker script to /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/vr_connector
+[2.118s] writing list of installed files to '/home/zpw/UR3e-ROS2-resources/build/vr_connector/install.log'
+[2.178s] Invoked command in '/home/zpw/UR3e-ROS2-resources/src/vr_connector' returned '0': PYTHONPATH=/home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/vr_connector build --build-base /home/zpw/UR3e-ROS2-resources/build/vr_connector/build install --prefix /home/zpw/UR3e-ROS2-resources/install/vr_connector --record /home/zpw/UR3e-ROS2-resources/build/vr_connector/install.log --single-version-externally-managed

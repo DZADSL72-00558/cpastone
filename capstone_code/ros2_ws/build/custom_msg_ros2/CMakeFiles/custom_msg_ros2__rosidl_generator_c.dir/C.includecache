@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bofengluo/ros2_foxy/ros2-linux/include/rosidl_runtime_c/visibility_control.h
+
+/home/bofengluo/ros2_ws/build/custom_msg_ros2/rosidl_generator_c/custom_msg_ros2/msg/detail/custom_message__functions.c
+custom_msg_ros2/msg/detail/custom_message__functions.h
+/home/bofengluo/ros2_ws/build/custom_msg_ros2/rosidl_generator_c/custom_msg_ros2/msg/detail/custom_msg_ros2/msg/detail/custom_message__functions.h
+assert.h
+-
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+
+rosidl_generator_c/custom_msg_ros2/msg/detail/custom_message__functions.h
+stdbool.h
+-
+stdlib.h
+-
+rosidl_runtime_c/visibility_control.h
+rosidl_generator_c/custom_msg_ros2/msg/detail/rosidl_runtime_c/visibility_control.h
+custom_msg_ros2/msg/rosidl_generator_c__visibility_control.h
+rosidl_generator_c/custom_msg_ros2/msg/detail/custom_msg_ros2/msg/rosidl_generator_c__visibility_control.h
+custom_msg_ros2/msg/detail/custom_message__struct.h
+rosidl_generator_c/custom_msg_ros2/msg/detail/custom_msg_ros2/msg/detail/custom_message__struct.h
+
+rosidl_generator_c/custom_msg_ros2/msg/detail/custom_message__struct.h
+stdbool.h
+-
+stddef.h
+-
+stdint.h
+-
+
+rosidl_generator_c/custom_msg_ros2/msg/rosidl_generator_c__visibility_control.h
+

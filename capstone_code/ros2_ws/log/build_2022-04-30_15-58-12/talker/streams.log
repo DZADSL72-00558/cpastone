@@ -1,0 +1,64 @@
+[0.021s] Invoking command in '/home/bofengluo/ros2_ws/build/talker': /usr/bin/cmake /home/bofengluo/ros2_ws/src/talker -DCMAKE_INSTALL_PREFIX=/home/bofengluo/ros2_ws/install/talker
+[0.120s] -- The C compiler identification is GNU 9.4.0
+[0.201s] -- The CXX compiler identification is GNU 9.4.0
+[0.209s] -- Check for working C compiler: /usr/bin/cc
+[0.295s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.297s] -- Detecting C compiler ABI info
+[0.386s] -- Detecting C compiler ABI info - done
+[0.401s] -- Detecting C compile features
+[0.402s] -- Detecting C compile features - done
+[0.404s] -- Check for working CXX compiler: /usr/bin/c++
+[0.499s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.501s] -- Detecting CXX compiler ABI info
+[0.606s] -- Detecting CXX compiler ABI info - done
+[0.620s] -- Detecting CXX compile features
+[0.621s] -- Detecting CXX compile features - done
+[0.626s] -- Found ament_cmake: 0.9.9 (/home/bofengluo/ros2_foxy/ros2-linux/share/ament_cmake/cmake)
+[0.658s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.659s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.889s] -- Found rclcpp: 2.4.1 (/home/bofengluo/ros2_foxy/ros2-linux/share/rclcpp/cmake)
+[0.933s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_connext_c;rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.940s] -- Found rosidl_adapter: 1.2.1 (/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_adapter/cmake)
+[0.963s] -- Could not find RTI Connext - skipping rosidl_typesupport_connext_c
+[0.977s] -- Could not find RTI Connext - skipping rosidl_typesupport_connext_cpp
+[1.115s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.149s] -- Found FastRTPS: /home/bofengluo/ros2_foxy/ros2-linux/include  
+[1.227s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_connext_cpp;rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.284s] -- Found rmw_implementation_cmake: 1.0.3 (/home/bofengluo/ros2_foxy/ros2-linux/share/rmw_implementation_cmake/cmake)
+[1.286s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.288s] -- Looking for pthread.h
+[1.387s] -- Looking for pthread.h - found
+[1.388s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.507s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[1.507s] -- Looking for pthread_create in pthreads
+[1.584s] -- Looking for pthread_create in pthreads - not found
+[1.585s] -- Looking for pthread_create in pthread
+[1.695s] -- Looking for pthread_create in pthread - found
+[1.695s] -- Found Threads: TRUE  
+[1.791s] -- Found std_msgs: 2.0.5 (/home/bofengluo/ros2_foxy/ros2-linux/share/std_msgs/cmake)
+[1.811s] -- Found ament_lint_auto: 0.9.6 (/home/bofengluo/ros2_foxy/ros2-linux/share/ament_lint_auto/cmake)
+[1.903s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.904s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.905s] -- Configured cppcheck include dirs: 
+[1.905s] -- Configured cppcheck exclude dirs and/or files: 
+[1.905s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.905s] -- Configured cpplint exclude dirs and/or files: 
+[1.906s] -- Added test 'lint_cmake' to check CMake code style
+[1.907s] -- Added test 'uncrustify' to check C / C++ code style
+[1.907s] -- Configured uncrustify additional arguments: 
+[1.907s] -- Added test 'xmllint' to check XML markup files
+[1.910s] -- Configuring done
+[1.915s] -- Generating done
+[1.916s] -- Build files have been written to: /home/bofengluo/ros2_ws/build/talker
+[1.925s] Invoked command in '/home/bofengluo/ros2_ws/build/talker' returned '0': /usr/bin/cmake /home/bofengluo/ros2_ws/src/talker -DCMAKE_INSTALL_PREFIX=/home/bofengluo/ros2_ws/install/talker
+[1.931s] Invoking command in '/home/bofengluo/ros2_ws/build/talker': /usr/bin/cmake --build /home/bofengluo/ros2_ws/build/talker -- -j16 -l16
+[1.975s] [35m[1mScanning dependencies of target talker[0m
+[2.014s] [ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[4.736s] [100%] [32m[1mLinking CXX executable talker[0m
+[4.935s] /usr/bin/ld: CMakeFiles/talker.dir/src/talker.cpp.o: in function `rclcpp::Publisher<trajectory_msgs::msg::JointTrajectory_<std::allocator<void> >, std::allocator<void> >::Publisher(rclcpp::node_interfaces::NodeBaseInterface*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, rclcpp::QoS const&, rclcpp::PublisherOptionsWithAllocator<std::allocator<void> > const&)':
+[4.935s] talker.cpp:(.text._ZN6rclcpp9PublisherIN15trajectory_msgs3msg16JointTrajectory_ISaIvEEES4_EC2EPNS_15node_interfaces17NodeBaseInterfaceERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERKNS_3QoSERKNS_29PublisherOptionsWithAllocatorIS4_EE[_ZN6rclcpp9PublisherIN15trajectory_msgs3msg16JointTrajectory_ISaIvEEES4_EC5EPNS_15node_interfaces17NodeBaseInterfaceERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEERKNS_3QoSERKNS_29PublisherOptionsWithAllocatorIS4_EE]+0x6e): undefined reference to `rosidl_message_type_support_t const* rosidl_typesupport_cpp::get_message_type_support_handle<trajectory_msgs::msg::JointTrajectory_<std::allocator<void> > >()'
+[4.937s] collect2: error: ld returned 1 exit status
+[4.939s] make[2]: *** [CMakeFiles/talker.dir/build.make:126: talker] Error 1
+[4.940s] make[1]: *** [CMakeFiles/Makefile2:78: CMakeFiles/talker.dir/all] Error 2
+[4.940s] make: *** [Makefile:141: all] Error 2
+[4.944s] Invoked command in '/home/bofengluo/ros2_ws/build/talker' returned '2': /usr/bin/cmake --build /home/bofengluo/ros2_ws/build/talker -- -j16 -l16

@@ -1,0 +1,12 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from custom_msg_ros2/msg/CustomMessage.msg
+// generated code does not contain a copyright notice
+
+
+module custom_msg_ros2 {
+  module msg {
+    struct CustomMessage {
+      double custom_value;
+    };
+  };
+};

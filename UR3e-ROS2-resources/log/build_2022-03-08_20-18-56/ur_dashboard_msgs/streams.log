@@ -1,0 +1,307 @@
+[0.120s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur_dashboard_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur_dashboard_msgs -- -j16 -l16
+[1.767s] [  0%] Built target ur_dashboard_msgs__cpp
+[1.767s] [ 12%] Built target ur_dashboard_msgs__rosidl_generator_c
+[1.767s] [ 24%] Built target ur_dashboard_msgs__rosidl_typesupport_cpp
+[1.767s] [ 36%] Built target ur_dashboard_msgs__rosidl_typesupport_introspection_cpp
+[1.768s] [ 48%] Built target ur_dashboard_msgs__rosidl_typesupport_c
+[1.769s] [ 60%] Built target ur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp
+[1.769s] [ 72%] Built target ur_dashboard_msgs__rosidl_typesupport_introspection_c
+[1.769s] [ 84%] Built target ur_dashboard_msgs__rosidl_typesupport_fastrtps_c
+[1.769s] [ 84%] Built target ur_dashboard_msgs
+[1.769s] [ 85%] Built target ur_dashboard_msgs__py
+[1.772s] [ 96%] Built target ur_dashboard_msgs__python
+[1.776s] [ 98%] Built target ur_dashboard_msgs__rosidl_typesupport_introspection_c__pyext
+[1.777s] [ 99%] Built target ur_dashboard_msgs__rosidl_typesupport_c__pyext
+[1.781s] [100%] Built target ur_dashboard_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.865s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur_dashboard_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur_dashboard_msgs -- -j16 -l16
+[3.553s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur_dashboard_msgs': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/ur_dashboard_msgs
+[3.567s] -- Install configuration: ""
+[3.567s] -- Execute custom install script
+[3.567s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ament_index/resource_index/rosidl_interfaces/ur_dashboard_msgs
+[3.567s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/action/detail/set_mode__functions.h
+[3.570s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/action/detail/set_mode__struct.h
+[3.583s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/action/detail/set_mode__type_support.h
+[3.590s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/action/set_mode.h
+[3.596s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/program_state__functions.h
+[3.597s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/program_state__struct.h
+[3.599s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/program_state__type_support.h
+[3.609s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/robot_mode__functions.h
+[3.615s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/robot_mode__struct.h
+[3.617s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/robot_mode__type_support.h
+[3.620s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/safety_mode__functions.h
+[3.629s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/safety_mode__struct.h
+[3.630s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/safety_mode__type_support.h
+[3.632s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/program_state.h
+[3.632s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/robot_mode.h
+[3.632s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/rosidl_generator_c__visibility_control.h
+[3.633s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/safety_mode.h
+[3.633s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/add_to_log.h
+[3.634s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/add_to_log__functions.h
+[3.634s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/add_to_log__struct.h
+[3.634s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/add_to_log__type_support.h
+[3.634s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_loaded_program__functions.h
+[3.634s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_loaded_program__struct.h
+[3.634s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_loaded_program__type_support.h
+[3.635s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_program_state__functions.h
+[3.635s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_program_state__struct.h
+[3.635s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_program_state__type_support.h
+[3.635s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_robot_mode__functions.h
+[3.635s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_robot_mode__struct.h
+[3.636s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_robot_mode__type_support.h
+[3.636s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_safety_mode__functions.h
+[3.636s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_safety_mode__struct.h
+[3.636s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_safety_mode__type_support.h
+[3.636s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_running__functions.h
+[3.636s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_running__struct.h
+[3.636s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_running__type_support.h
+[3.636s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_saved__functions.h
+[3.637s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_saved__struct.h
+[3.637s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_saved__type_support.h
+[3.638s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/load__functions.h
+[3.638s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/load__struct.h
+[3.638s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/load__type_support.h
+[3.638s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/popup__functions.h
+[3.638s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/popup__struct.h
+[3.638s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/popup__type_support.h
+[3.638s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/raw_request__functions.h
+[3.638s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/raw_request__struct.h
+[3.638s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/raw_request__type_support.h
+[3.638s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/get_loaded_program.h
+[3.639s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/get_program_state.h
+[3.639s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/get_robot_mode.h
+[3.639s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/get_safety_mode.h
+[3.639s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/is_program_running.h
+[3.640s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/is_program_saved.h
+[3.640s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/load.h
+[3.640s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/popup.h
+[3.641s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/raw_request.h
+[3.641s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/library_path.sh
+[3.641s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/library_path.dsv
+[3.641s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/action/detail/set_mode__rosidl_typesupport_fastrtps_c.h
+[3.641s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/program_state__rosidl_typesupport_fastrtps_c.h
+[3.641s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/robot_mode__rosidl_typesupport_fastrtps_c.h
+[3.642s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/safety_mode__rosidl_typesupport_fastrtps_c.h
+[3.642s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[3.642s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/add_to_log__rosidl_typesupport_fastrtps_c.h
+[3.642s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_loaded_program__rosidl_typesupport_fastrtps_c.h
+[3.643s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_program_state__rosidl_typesupport_fastrtps_c.h
+[3.643s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_robot_mode__rosidl_typesupport_fastrtps_c.h
+[3.643s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_safety_mode__rosidl_typesupport_fastrtps_c.h
+[3.644s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_running__rosidl_typesupport_fastrtps_c.h
+[3.644s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_saved__rosidl_typesupport_fastrtps_c.h
+[3.644s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/load__rosidl_typesupport_fastrtps_c.h
+[3.649s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/popup__rosidl_typesupport_fastrtps_c.h
+[3.660s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/raw_request__rosidl_typesupport_fastrtps_c.h
+[3.661s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_fastrtps_c.so
+[3.661s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/action/detail/set_mode__rosidl_typesupport_fastrtps_cpp.hpp
+[3.661s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/program_state__rosidl_typesupport_fastrtps_cpp.hpp
+[3.662s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/robot_mode__rosidl_typesupport_fastrtps_cpp.hpp
+[3.662s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/safety_mode__rosidl_typesupport_fastrtps_cpp.hpp
+[3.662s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[3.662s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/add_to_log__rosidl_typesupport_fastrtps_cpp.hpp
+[3.662s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_loaded_program__rosidl_typesupport_fastrtps_cpp.hpp
+[3.662s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_program_state__rosidl_typesupport_fastrtps_cpp.hpp
+[3.662s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_robot_mode__rosidl_typesupport_fastrtps_cpp.hpp
+[3.662s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_safety_mode__rosidl_typesupport_fastrtps_cpp.hpp
+[3.662s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_running__rosidl_typesupport_fastrtps_cpp.hpp
+[3.663s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_saved__rosidl_typesupport_fastrtps_cpp.hpp
+[3.663s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/load__rosidl_typesupport_fastrtps_cpp.hpp
+[3.663s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/popup__rosidl_typesupport_fastrtps_cpp.hpp
+[3.664s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/raw_request__rosidl_typesupport_fastrtps_cpp.hpp
+[3.664s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_fastrtps_cpp.so
+[3.668s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/action/detail/set_mode__rosidl_typesupport_introspection_c.h
+[3.668s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/program_state__rosidl_typesupport_introspection_c.h
+[3.668s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/robot_mode__rosidl_typesupport_introspection_c.h
+[3.671s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/safety_mode__rosidl_typesupport_introspection_c.h
+[3.671s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[3.671s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/add_to_log__rosidl_typesupport_introspection_c.h
+[3.671s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_loaded_program__rosidl_typesupport_introspection_c.h
+[3.671s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_program_state__rosidl_typesupport_introspection_c.h
+[3.671s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_robot_mode__rosidl_typesupport_introspection_c.h
+[3.671s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_safety_mode__rosidl_typesupport_introspection_c.h
+[3.671s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_running__rosidl_typesupport_introspection_c.h
+[3.672s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_saved__rosidl_typesupport_introspection_c.h
+[3.672s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/load__rosidl_typesupport_introspection_c.h
+[3.672s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/popup__rosidl_typesupport_introspection_c.h
+[3.672s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/raw_request__rosidl_typesupport_introspection_c.h
+[3.673s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/action/detail/set_mode__builder.hpp
+[3.675s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/action/detail/set_mode__struct.hpp
+[3.676s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/action/detail/set_mode__traits.hpp
+[3.677s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/action/set_mode.hpp
+[3.679s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/program_state__builder.hpp
+[3.681s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/program_state__struct.hpp
+[3.684s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/program_state__traits.hpp
+[3.686s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/robot_mode__builder.hpp
+[3.686s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/robot_mode__struct.hpp
+[3.687s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/robot_mode__traits.hpp
+[3.687s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/safety_mode__builder.hpp
+[3.687s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/safety_mode__struct.hpp
+[3.687s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/safety_mode__traits.hpp
+[3.687s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/program_state.hpp
+[3.687s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/robot_mode.hpp
+[3.687s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/safety_mode.hpp
+[3.688s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/add_to_log.hpp
+[3.693s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/add_to_log__builder.hpp
+[3.698s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/add_to_log__struct.hpp
+[3.702s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/add_to_log__traits.hpp
+[3.702s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_loaded_program__builder.hpp
+[3.702s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_loaded_program__struct.hpp
+[3.703s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_loaded_program__traits.hpp
+[3.703s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_program_state__builder.hpp
+[3.704s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_program_state__struct.hpp
+[3.705s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_program_state__traits.hpp
+[3.705s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_robot_mode__builder.hpp
+[3.705s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_robot_mode__struct.hpp
+[3.705s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_robot_mode__traits.hpp
+[3.705s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_safety_mode__builder.hpp
+[3.706s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_safety_mode__struct.hpp
+[3.706s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_safety_mode__traits.hpp
+[3.706s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_running__builder.hpp
+[3.706s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_running__struct.hpp
+[3.706s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_running__traits.hpp
+[3.707s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_saved__builder.hpp
+[3.707s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_saved__struct.hpp
+[3.707s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_saved__traits.hpp
+[3.709s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/load__builder.hpp
+[3.713s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/load__struct.hpp
+[3.715s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/load__traits.hpp
+[3.716s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/popup__builder.hpp
+[3.718s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/popup__struct.hpp
+[3.719s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/popup__traits.hpp
+[3.720s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/raw_request__builder.hpp
+[3.721s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/raw_request__struct.hpp
+[3.722s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/raw_request__traits.hpp
+[3.722s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/get_loaded_program.hpp
+[3.723s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/get_program_state.hpp
+[3.723s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/get_robot_mode.hpp
+[3.723s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/get_safety_mode.hpp
+[3.726s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/is_program_running.hpp
+[3.728s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/is_program_saved.hpp
+[3.732s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/load.hpp
+[3.737s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/popup.hpp
+[3.739s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/raw_request.hpp
+[3.739s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/action/detail/set_mode__rosidl_typesupport_introspection_cpp.hpp
+[3.740s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/program_state__rosidl_typesupport_introspection_cpp.hpp
+[3.741s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/robot_mode__rosidl_typesupport_introspection_cpp.hpp
+[3.741s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/msg/detail/safety_mode__rosidl_typesupport_introspection_cpp.hpp
+[3.741s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/add_to_log__rosidl_typesupport_introspection_cpp.hpp
+[3.741s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_loaded_program__rosidl_typesupport_introspection_cpp.hpp
+[3.741s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_program_state__rosidl_typesupport_introspection_cpp.hpp
+[3.741s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_robot_mode__rosidl_typesupport_introspection_cpp.hpp
+[3.742s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/get_safety_mode__rosidl_typesupport_introspection_cpp.hpp
+[3.743s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_running__rosidl_typesupport_introspection_cpp.hpp
+[3.744s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/is_program_saved__rosidl_typesupport_introspection_cpp.hpp
+[3.745s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/load__rosidl_typesupport_introspection_cpp.hpp
+[3.746s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/popup__rosidl_typesupport_introspection_cpp.hpp
+[3.747s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/include/ur_dashboard_msgs/srv/detail/raw_request__rosidl_typesupport_introspection_cpp.hpp
+[3.751s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/pythonpath.sh
+[3.756s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/pythonpath.dsv
+[3.757s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/__init__.py
+[3.765s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/msg/__init__.py
+[3.772s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/msg/_program_state.py
+[3.772s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/msg/_robot_mode.py
+[3.772s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/msg/_safety_mode.py
+[3.773s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/srv/__init__.py
+[3.776s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/srv/_add_to_log.py
+[3.783s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/srv/_get_loaded_program.py
+[3.788s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/srv/_get_program_state.py
+[3.788s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/srv/_get_robot_mode.py
+[3.788s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/srv/_get_safety_mode.py
+[3.788s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/srv/_is_program_running.py
+[3.793s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/srv/_is_program_saved.py
+[3.795s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/srv/_load.py
+[3.800s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/srv/_popup.py
+[3.804s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/srv/_raw_request.py
+[3.804s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/action/__init__.py
+[3.807s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/action/_set_mode.py
+[3.810s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/ur_dashboard_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[3.815s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/ur_dashboard_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[3.821s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/python3.8/site-packages/ur_dashboard_msgs/ur_dashboard_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[3.828s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__python.so
+[3.833s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/ProgramState.idl
+[3.835s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/RobotMode.idl
+[3.835s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/SafetyMode.idl
+[3.837s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/AddToLog.idl
+[3.839s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetLoadedProgram.idl
+[3.840s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetProgramState.idl
+[3.841s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetRobotMode.idl
+[3.848s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetSafetyMode.idl
+[3.860s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramRunning.idl
+[3.863s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramSaved.idl
+[3.864s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Load.idl
+[3.865s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Popup.idl
+[3.867s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/RawRequest.idl
+[3.869s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/action/SetMode.idl
+[3.870s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/ProgramState.msg
+[3.872s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/RobotMode.msg
+[3.873s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/msg/SafetyMode.msg
+[3.875s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/AddToLog.srv
+[3.876s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/AddToLog_Request.msg
+[3.877s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/AddToLog_Response.msg
+[3.879s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetLoadedProgram.srv
+[3.882s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetLoadedProgram_Request.msg
+[3.885s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetLoadedProgram_Response.msg
+[3.908s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetProgramState.srv
+[3.909s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetProgramState_Request.msg
+[3.909s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetProgramState_Response.msg
+[3.924s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetRobotMode.srv
+[3.924s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetRobotMode_Request.msg
+[3.925s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetRobotMode_Response.msg
+[3.926s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetSafetyMode.srv
+[3.927s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetSafetyMode_Request.msg
+[3.929s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/GetSafetyMode_Response.msg
+[3.931s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramRunning.srv
+[3.933s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramRunning_Request.msg
+[3.935s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramRunning_Response.msg
+[3.940s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramSaved.srv
+[3.940s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramSaved_Request.msg
+[3.940s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/IsProgramSaved_Response.msg
+[3.940s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Load.srv
+[3.941s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Load_Request.msg
+[3.943s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Load_Response.msg
+[3.950s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Popup.srv
+[3.953s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Popup_Request.msg
+[3.955s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/Popup_Response.msg
+[3.956s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/RawRequest.srv
+[3.956s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/RawRequest_Request.msg
+[3.956s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/srv/RawRequest_Response.msg
+[3.956s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/action/SetMode.action
+[3.960s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ament_index/resource_index/package_run_dependencies/ur_dashboard_msgs
+[3.965s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ament_index/resource_index/parent_prefix_path/ur_dashboard_msgs
+[3.971s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/ament_prefix_path.sh
+[3.986s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/ament_prefix_path.dsv
+[3.987s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/path.sh
+[3.987s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/environment/path.dsv
+[3.987s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/local_setup.bash
+[3.988s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/local_setup.sh
+[3.989s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/local_setup.zsh
+[3.991s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/local_setup.dsv
+[3.993s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/package.dsv
+[4.000s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ament_index/resource_index/packages/ur_dashboard_msgs
+[4.000s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/rosidl_cmake-extras.cmake
+[4.001s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.001s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[4.001s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[4.001s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.001s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[4.001s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[4.004s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgsConfig.cmake
+[4.006s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgsConfig-version.cmake
+[4.009s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/package.xml
+[4.015s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_generator_c.so
+[4.015s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_introspection_c.so
+[4.015s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_c.so
+[4.016s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_introspection_cpp.so
+[4.016s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/lib/libur_dashboard_msgs__rosidl_typesupport_cpp.so
+[4.026s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_generator_cExport.cmake
+[4.027s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_generator_cExport-noconfig.cmake
+[4.030s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_introspection_cExport.cmake
+[4.030s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[4.030s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_cExport.cmake
+[4.031s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[4.031s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_generator_cppExport.cmake
+[4.031s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[4.034s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[4.035s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_cppExport.cmake
+[4.042s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_dashboard_msgs/share/ur_dashboard_msgs/cmake/ur_dashboard_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[4.044s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur_dashboard_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/ur_dashboard_msgs

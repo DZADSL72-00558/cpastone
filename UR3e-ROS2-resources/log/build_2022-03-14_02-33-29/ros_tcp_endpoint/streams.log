@@ -1,0 +1,21 @@
+[1.899s] Invoking command in '/home/zpw/UR3e-ROS2-resources/src/ROS-TCP-Endpoint': PYTHONPATH=/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros_tcp_endpoint build --build-base /home/zpw/UR3e-ROS2-resources/build/ros_tcp_endpoint/build install --prefix /home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint --record /home/zpw/UR3e-ROS2-resources/build/ros_tcp_endpoint/install.log --single-version-externally-managed
+[2.207s] running egg_info
+[2.208s] writing ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/PKG-INFO
+[2.208s] writing dependency_links to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/dependency_links.txt
+[2.209s] writing entry points to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/entry_points.txt
+[2.209s] writing requirements to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/requires.txt
+[2.209s] writing top-level names to ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/top_level.txt
+[2.256s] reading manifest file '../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[2.257s] writing manifest file '../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info/SOURCES.txt'
+[2.258s] running build
+[2.258s] running build_py
+[2.259s] running install
+[2.267s] running install_lib
+[2.267s] running install_data
+[2.267s] running install_egg_info
+[2.267s] removing '/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint-0.0.1-py3.8.egg-info' (and everything under it)
+[2.268s] Copying ../../build/ros_tcp_endpoint/ros_tcp_endpoint.egg-info to /home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint/lib/python3.8/site-packages/ros_tcp_endpoint-0.0.1-py3.8.egg-info
+[2.268s] running install_scripts
+[2.299s] Installing default_server_endpoint script to /home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint/lib/ros_tcp_endpoint
+[2.299s] writing list of installed files to '/home/zpw/UR3e-ROS2-resources/build/ros_tcp_endpoint/install.log'
+[2.377s] Invoked command in '/home/zpw/UR3e-ROS2-resources/src/ROS-TCP-Endpoint' returned '0': PYTHONPATH=/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros_tcp_endpoint build --build-base /home/zpw/UR3e-ROS2-resources/build/ros_tcp_endpoint/build install --prefix /home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint --record /home/zpw/UR3e-ROS2-resources/build/ros_tcp_endpoint/install.log --single-version-externally-managed

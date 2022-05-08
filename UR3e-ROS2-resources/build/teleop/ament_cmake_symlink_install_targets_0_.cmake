@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/zpw/UR3e-ROS2-resources/build/teleop/libjoystick_input.so" "TARGETS" "joystick_input" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "lib/teleop")

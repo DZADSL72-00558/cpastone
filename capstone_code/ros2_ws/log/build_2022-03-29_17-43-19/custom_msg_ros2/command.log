@@ -1,0 +1,6 @@
+Invoking command in '/home/bofengluo/ros2_ws/build/custom_msg_ros2': /usr/bin/cmake /home/bofengluo/ros2_ws/src/custom_msg_ros2 -DCMAKE_INSTALL_PREFIX=/home/bofengluo/ros2_ws/install/custom_msg_ros2
+Invoked command in '/home/bofengluo/ros2_ws/build/custom_msg_ros2' returned '0': /usr/bin/cmake /home/bofengluo/ros2_ws/src/custom_msg_ros2 -DCMAKE_INSTALL_PREFIX=/home/bofengluo/ros2_ws/install/custom_msg_ros2
+Invoking command in '/home/bofengluo/ros2_ws/build/custom_msg_ros2': /usr/bin/cmake --build /home/bofengluo/ros2_ws/build/custom_msg_ros2 -- -j16 -l16
+Invoked command in '/home/bofengluo/ros2_ws/build/custom_msg_ros2' returned '0': /usr/bin/cmake --build /home/bofengluo/ros2_ws/build/custom_msg_ros2 -- -j16 -l16
+Invoking command in '/home/bofengluo/ros2_ws/build/custom_msg_ros2': /usr/bin/cmake --install /home/bofengluo/ros2_ws/build/custom_msg_ros2
+Invoked command in '/home/bofengluo/ros2_ws/build/custom_msg_ros2' returned '0': /usr/bin/cmake --install /home/bofengluo/ros2_ws/build/custom_msg_ros2

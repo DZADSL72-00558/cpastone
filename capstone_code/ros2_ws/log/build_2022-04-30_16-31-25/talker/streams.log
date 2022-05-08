@@ -1,0 +1,26 @@
+[0.023s] Invoking command in '/home/bofengluo/ros2_ws/build/talker': /usr/bin/cmake --build /home/bofengluo/ros2_ws/build/talker -- -j16 -l16
+[0.090s] [35m[1mScanning dependencies of target talker[0m
+[0.120s] [ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[3.595s] [100%] [32m[1mLinking CXX executable talker[0m
+[3.804s] [100%] Built target talker
+[3.822s] Invoked command in '/home/bofengluo/ros2_ws/build/talker' returned '0': /usr/bin/cmake --build /home/bofengluo/ros2_ws/build/talker -- -j16 -l16
+[3.882s] Invoking command in '/home/bofengluo/ros2_ws/build/talker': /usr/bin/cmake --install /home/bofengluo/ros2_ws/build/talker
+[3.895s] -- Install configuration: ""
+[3.895s] -- Installing: /home/bofengluo/ros2_ws/install/talker/lib/talker/talker
+[3.896s] -- Set runtime path of "/home/bofengluo/ros2_ws/install/talker/lib/talker/talker" to ""
+[3.896s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/ament_index/resource_index/package_run_dependencies/talker
+[3.897s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/ament_index/resource_index/parent_prefix_path/talker
+[3.897s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/talker/environment/ament_prefix_path.sh
+[3.897s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/talker/environment/ament_prefix_path.dsv
+[3.897s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/talker/environment/path.sh
+[3.897s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/talker/environment/path.dsv
+[3.897s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/talker/local_setup.bash
+[3.897s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/talker/local_setup.sh
+[3.898s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/talker/local_setup.zsh
+[3.898s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/talker/local_setup.dsv
+[3.902s] -- Installing: /home/bofengluo/ros2_ws/install/talker/share/talker/package.dsv
+[3.902s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/ament_index/resource_index/packages/talker
+[3.902s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/talker/cmake/talkerConfig.cmake
+[3.903s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/talker/cmake/talkerConfig-version.cmake
+[3.903s] -- Up-to-date: /home/bofengluo/ros2_ws/install/talker/share/talker/package.xml
+[3.903s] Invoked command in '/home/bofengluo/ros2_ws/build/talker' returned '0': /usr/bin/cmake --install /home/bofengluo/ros2_ws/build/talker

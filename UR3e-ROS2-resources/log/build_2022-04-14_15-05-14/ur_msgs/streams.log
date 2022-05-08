@@ -1,0 +1,232 @@
+[0.670s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur_msgs -- -j16 -l16
+[3.851s] [  0%] Built target ur_msgs__cpp
+[3.852s] [ 12%] Built target ur_msgs__rosidl_generator_c
+[3.853s] [ 24%] Built target ur_msgs__rosidl_typesupport_cpp
+[3.854s] [ 35%] Built target ur_msgs__rosidl_typesupport_c
+[3.857s] [ 47%] Built target ur_msgs__rosidl_typesupport_introspection_c
+[3.858s] [ 59%] Built target ur_msgs__rosidl_typesupport_introspection_cpp
+[3.859s] [ 70%] Built target ur_msgs__rosidl_typesupport_fastrtps_cpp
+[3.869s] [ 82%] Built target ur_msgs__rosidl_typesupport_fastrtps_c
+[3.869s] [ 82%] Built target ur_msgs
+[3.870s] [ 83%] Built target ur_msgs__py
+[3.871s] [ 94%] Built target ur_msgs__python
+[3.871s] [ 98%] Built target ur_msgs__rosidl_typesupport_fastrtps_c__pyext
+[3.872s] [ 98%] Built target ur_msgs__rosidl_typesupport_c__pyext
+[3.873s] [100%] Built target ur_msgs__rosidl_typesupport_introspection_c__pyext
+[3.967s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur_msgs -- -j16 -l16
+[5.223s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/ur_msgs
+[5.733s] -- Install configuration: ""
+[5.733s] -- Execute custom install script
+[5.733s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ament_index/resource_index/rosidl_interfaces/ur_msgs
+[5.735s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/analog.h
+[5.738s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/analog__functions.h
+[5.744s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/analog__struct.h
+[5.745s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/analog__type_support.h
+[5.746s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/digital__functions.h
+[5.748s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/digital__struct.h
+[5.749s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/digital__type_support.h
+[5.749s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/io_states__functions.h
+[5.750s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/io_states__struct.h
+[5.754s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/io_states__type_support.h
+[5.757s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/masterboard_data_msg__functions.h
+[5.759s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/masterboard_data_msg__struct.h
+[5.761s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/masterboard_data_msg__type_support.h
+[5.763s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_mode_data_msg__functions.h
+[5.763s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_mode_data_msg__struct.h
+[5.764s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_mode_data_msg__type_support.h
+[5.764s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_state_rt_msg__functions.h
+[5.764s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_state_rt_msg__struct.h
+[5.764s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_state_rt_msg__type_support.h
+[5.764s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/tool_data_msg__functions.h
+[5.766s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/tool_data_msg__struct.h
+[5.769s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/tool_data_msg__type_support.h
+[5.772s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/digital.h
+[5.774s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/io_states.h
+[5.776s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/masterboard_data_msg.h
+[5.777s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/robot_mode_data_msg.h
+[5.777s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/robot_state_rt_msg.h
+[5.777s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/rosidl_generator_c__visibility_control.h
+[5.778s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/tool_data_msg.h
+[5.778s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_io__functions.h
+[5.778s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_io__struct.h
+[5.779s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_io__type_support.h
+[5.781s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_payload__functions.h
+[5.783s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_payload__struct.h
+[5.787s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_payload__type_support.h
+[5.788s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_speed_slider_fraction__functions.h
+[5.789s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_speed_slider_fraction__struct.h
+[5.792s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_speed_slider_fraction__type_support.h
+[5.793s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/set_io.h
+[5.799s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/set_payload.h
+[5.803s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/set_speed_slider_fraction.h
+[5.804s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/environment/library_path.sh
+[5.805s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/environment/library_path.dsv
+[5.806s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/analog__rosidl_typesupport_fastrtps_c.h
+[5.807s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/digital__rosidl_typesupport_fastrtps_c.h
+[5.819s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/io_states__rosidl_typesupport_fastrtps_c.h
+[5.823s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/masterboard_data_msg__rosidl_typesupport_fastrtps_c.h
+[5.832s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_mode_data_msg__rosidl_typesupport_fastrtps_c.h
+[5.837s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_state_rt_msg__rosidl_typesupport_fastrtps_c.h
+[5.838s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/tool_data_msg__rosidl_typesupport_fastrtps_c.h
+[5.838s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[5.839s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_io__rosidl_typesupport_fastrtps_c.h
+[5.840s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_payload__rosidl_typesupport_fastrtps_c.h
+[5.843s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_speed_slider_fraction__rosidl_typesupport_fastrtps_c.h
+[5.844s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/libur_msgs__rosidl_typesupport_fastrtps_c.so
+[5.845s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/analog__rosidl_typesupport_fastrtps_cpp.hpp
+[5.846s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/digital__rosidl_typesupport_fastrtps_cpp.hpp
+[5.846s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/io_states__rosidl_typesupport_fastrtps_cpp.hpp
+[5.847s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/masterboard_data_msg__rosidl_typesupport_fastrtps_cpp.hpp
+[5.848s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_mode_data_msg__rosidl_typesupport_fastrtps_cpp.hpp
+[5.849s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_state_rt_msg__rosidl_typesupport_fastrtps_cpp.hpp
+[5.850s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/tool_data_msg__rosidl_typesupport_fastrtps_cpp.hpp
+[5.850s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[5.851s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_io__rosidl_typesupport_fastrtps_cpp.hpp
+[5.851s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_payload__rosidl_typesupport_fastrtps_cpp.hpp
+[5.851s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_speed_slider_fraction__rosidl_typesupport_fastrtps_cpp.hpp
+[5.851s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/libur_msgs__rosidl_typesupport_fastrtps_cpp.so
+[5.852s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/analog__rosidl_typesupport_introspection_c.h
+[5.852s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/digital__rosidl_typesupport_introspection_c.h
+[5.852s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/io_states__rosidl_typesupport_introspection_c.h
+[5.853s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/masterboard_data_msg__rosidl_typesupport_introspection_c.h
+[5.854s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_mode_data_msg__rosidl_typesupport_introspection_c.h
+[5.858s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_state_rt_msg__rosidl_typesupport_introspection_c.h
+[5.859s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/tool_data_msg__rosidl_typesupport_introspection_c.h
+[5.860s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[5.863s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_io__rosidl_typesupport_introspection_c.h
+[5.867s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_payload__rosidl_typesupport_introspection_c.h
+[5.870s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_speed_slider_fraction__rosidl_typesupport_introspection_c.h
+[5.875s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/analog.hpp
+[5.878s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/analog__builder.hpp
+[5.882s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/analog__struct.hpp
+[5.884s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/analog__traits.hpp
+[5.890s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/digital__builder.hpp
+[5.894s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/digital__struct.hpp
+[5.897s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/digital__traits.hpp
+[5.897s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/io_states__builder.hpp
+[5.897s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/io_states__struct.hpp
+[5.897s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/io_states__traits.hpp
+[5.910s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/masterboard_data_msg__builder.hpp
+[5.912s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/masterboard_data_msg__struct.hpp
+[5.912s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/masterboard_data_msg__traits.hpp
+[5.912s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_mode_data_msg__builder.hpp
+[5.912s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_mode_data_msg__struct.hpp
+[5.913s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_mode_data_msg__traits.hpp
+[5.917s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_state_rt_msg__builder.hpp
+[5.919s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_state_rt_msg__struct.hpp
+[5.920s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_state_rt_msg__traits.hpp
+[5.923s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/tool_data_msg__builder.hpp
+[5.924s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/tool_data_msg__struct.hpp
+[5.926s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/tool_data_msg__traits.hpp
+[5.927s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/digital.hpp
+[5.927s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/io_states.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/masterboard_data_msg.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/robot_mode_data_msg.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/robot_state_rt_msg.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/tool_data_msg.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_io__builder.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_io__struct.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_io__traits.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_payload__builder.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_payload__struct.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_payload__traits.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_speed_slider_fraction__builder.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_speed_slider_fraction__struct.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_speed_slider_fraction__traits.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/set_io.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/set_payload.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/set_speed_slider_fraction.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/analog__rosidl_typesupport_introspection_cpp.hpp
+[5.928s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/digital__rosidl_typesupport_introspection_cpp.hpp
+[5.929s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/io_states__rosidl_typesupport_introspection_cpp.hpp
+[5.929s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/masterboard_data_msg__rosidl_typesupport_introspection_cpp.hpp
+[5.929s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_mode_data_msg__rosidl_typesupport_introspection_cpp.hpp
+[5.930s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/robot_state_rt_msg__rosidl_typesupport_introspection_cpp.hpp
+[5.930s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/msg/detail/tool_data_msg__rosidl_typesupport_introspection_cpp.hpp
+[5.931s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_io__rosidl_typesupport_introspection_cpp.hpp
+[5.931s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_payload__rosidl_typesupport_introspection_cpp.hpp
+[5.934s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/include/ur_msgs/srv/detail/set_speed_slider_fraction__rosidl_typesupport_introspection_cpp.hpp
+[5.941s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/environment/pythonpath.sh
+[5.942s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/environment/pythonpath.dsv
+[5.942s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/__init__.py
+[5.943s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/msg/__init__.py
+[5.948s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/msg/_analog.py
+[5.950s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/msg/_digital.py
+[5.951s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/msg/_io_states.py
+[5.953s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/msg/_masterboard_data_msg.py
+[5.957s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/msg/_robot_mode_data_msg.py
+[5.958s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/msg/_robot_state_rt_msg.py
+[5.959s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/msg/_tool_data_msg.py
+[5.960s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/srv/__init__.py
+[5.961s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/srv/_set_io.py
+[5.962s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/srv/_set_payload.py
+[5.964s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/srv/_set_speed_slider_fraction.py
+[5.967s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/ur_msgs_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[5.971s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/ur_msgs_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[5.971s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/python3.8/site-packages/ur_msgs/ur_msgs_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[5.971s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/libur_msgs__python.so
+[5.971s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/Analog.idl
+[5.971s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/Digital.idl
+[5.971s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/IOStates.idl
+[5.971s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/RobotStateRTMsg.idl
+[5.972s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/MasterboardDataMsg.idl
+[5.972s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/RobotModeDataMsg.idl
+[5.972s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/ToolDataMsg.idl
+[5.972s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/srv/SetPayload.idl
+[5.972s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/srv/SetSpeedSliderFraction.idl
+[5.977s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/srv/SetIO.idl
+[5.981s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/Analog.msg
+[5.985s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/Digital.msg
+[5.993s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/IOStates.msg
+[5.998s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/RobotStateRTMsg.msg
+[5.999s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/MasterboardDataMsg.msg
+[6.000s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/RobotModeDataMsg.msg
+[6.000s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/msg/ToolDataMsg.msg
+[6.016s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/srv/SetPayload.srv
+[6.019s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/srv/SetPayload_Request.msg
+[6.023s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/srv/SetPayload_Response.msg
+[6.039s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/srv/SetSpeedSliderFraction.srv
+[6.046s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/srv/SetSpeedSliderFraction_Request.msg
+[6.047s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/srv/SetSpeedSliderFraction_Response.msg
+[6.051s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/srv/SetIO.srv
+[6.054s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/srv/SetIO_Request.msg
+[6.059s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/srv/SetIO_Response.msg
+[6.059s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ament_index/resource_index/package_run_dependencies/ur_msgs
+[6.059s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ament_index/resource_index/parent_prefix_path/ur_msgs
+[6.060s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/environment/ament_prefix_path.sh
+[6.060s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/environment/ament_prefix_path.dsv
+[6.060s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/environment/path.sh
+[6.062s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/environment/path.dsv
+[6.063s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/local_setup.bash
+[6.073s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/local_setup.sh
+[6.074s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/local_setup.zsh
+[6.075s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/local_setup.dsv
+[6.075s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/package.dsv
+[6.097s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ament_index/resource_index/packages/ur_msgs
+[6.103s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/rosidl_cmake-extras.cmake
+[6.105s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[6.105s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[6.105s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[6.107s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[6.109s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[6.111s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[6.112s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgsConfig.cmake
+[6.116s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgsConfig-version.cmake
+[6.118s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/package.xml
+[6.119s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/libur_msgs__rosidl_generator_c.so
+[6.119s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/libur_msgs__rosidl_typesupport_introspection_c.so
+[6.119s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/libur_msgs__rosidl_typesupport_c.so
+[6.119s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/libur_msgs__rosidl_typesupport_introspection_cpp.so
+[6.126s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/lib/libur_msgs__rosidl_typesupport_cpp.so
+[6.134s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgs__rosidl_generator_cExport.cmake
+[6.136s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgs__rosidl_generator_cExport-noconfig.cmake
+[6.138s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgs__rosidl_typesupport_introspection_cExport.cmake
+[6.138s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[6.139s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgs__rosidl_typesupport_cExport.cmake
+[6.143s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[6.164s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgs__rosidl_generator_cppExport.cmake
+[6.164s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[6.165s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[6.170s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgs__rosidl_typesupport_cppExport.cmake
+[6.171s] -- Up-to-date: /home/zpw/UR3e-ROS2-resources/install/ur_msgs/share/ur_msgs/cmake/ur_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[6.640s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/ur_msgs

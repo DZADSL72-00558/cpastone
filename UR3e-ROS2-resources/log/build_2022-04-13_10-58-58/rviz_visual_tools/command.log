@@ -1,0 +1,4 @@
+Invoking command in '/home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools -- -j16 -l16
+Invoked command in '/home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools -- -j16 -l16
+Invoking command in '/home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools
+Invoked command in '/home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/rviz_visual_tools

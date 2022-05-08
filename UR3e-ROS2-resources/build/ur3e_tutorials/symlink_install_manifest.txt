@@ -1,0 +1,17 @@
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/launch/move_group_interface_tutorial.launch.py
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/lib/ur3e_tutorials/move_group_interface_tutorial
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ament_index/resource_index/package_run_dependencies/ur3e_tutorials
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ament_index/resource_index/parent_prefix_path/ur3e_tutorials
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/environment/ament_prefix_path.sh
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/environment/ament_prefix_path.dsv
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/environment/path.sh
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/environment/path.dsv
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/local_setup.bash
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/local_setup.sh
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/local_setup.zsh
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/local_setup.dsv
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/package.dsv
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ament_index/resource_index/packages/ur3e_tutorials
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/cmake/ur3e_tutorialsConfig.cmake
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/cmake/ur3e_tutorialsConfig-version.cmake
+/home/zpw/UR3e-ROS2-resources/install/ur3e_tutorials/share/ur3e_tutorials/package.xml

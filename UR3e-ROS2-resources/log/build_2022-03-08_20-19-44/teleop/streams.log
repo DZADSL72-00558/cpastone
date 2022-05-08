@@ -1,0 +1,27 @@
+[0.249s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/teleop': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/teleop -- -j16 -l16
+[1.872s] [100%] Built target joystick_input
+[1.930s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/teleop' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/teleop -- -j16 -l16
+[2.092s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/teleop': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/teleop
+[2.313s] -- Install configuration: ""
+[2.313s] -- Execute custom install script
+[2.313s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/config/ur3e_servo_config.yaml
+[2.315s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/config/ur3e_teleop.rviz
+[2.320s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/launch/servo_teleop.launch.py
+[2.322s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/lib/libjoystick_input.so
+[2.323s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/ament_index/resource_index/package_run_dependencies/teleop
+[2.325s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/ament_index/resource_index/parent_prefix_path/teleop
+[2.327s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/environment/ament_prefix_path.sh
+[2.328s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/environment/ament_prefix_path.dsv
+[2.330s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/environment/path.sh
+[2.331s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/environment/path.dsv
+[2.333s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/local_setup.bash
+[2.341s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/local_setup.sh
+[2.341s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/local_setup.zsh
+[2.341s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/local_setup.dsv
+[2.342s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/package.dsv
+[2.556s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/ament_index/resource_index/packages/teleop
+[2.557s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/ament_index/resource_index/rclcpp_components/teleop
+[2.557s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/cmake/teleopConfig.cmake
+[2.572s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/cmake/teleopConfig-version.cmake
+[2.584s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/teleop/share/teleop/package.xml
+[2.870s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/teleop' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/teleop

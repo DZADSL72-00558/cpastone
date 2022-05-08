@@ -1,0 +1,15 @@
+{
+  "package_name": "ur_msgs",
+  "non_idl_tuples": [
+    "/home/zpw/UR3e-ROS2-resources/src/ur_msgs:msg/Analog.msg",
+    "/home/zpw/UR3e-ROS2-resources/src/ur_msgs:msg/Digital.msg",
+    "/home/zpw/UR3e-ROS2-resources/src/ur_msgs:msg/IOStates.msg",
+    "/home/zpw/UR3e-ROS2-resources/src/ur_msgs:msg/RobotStateRTMsg.msg",
+    "/home/zpw/UR3e-ROS2-resources/src/ur_msgs:msg/MasterboardDataMsg.msg",
+    "/home/zpw/UR3e-ROS2-resources/src/ur_msgs:msg/RobotModeDataMsg.msg",
+    "/home/zpw/UR3e-ROS2-resources/src/ur_msgs:msg/ToolDataMsg.msg",
+    "/home/zpw/UR3e-ROS2-resources/src/ur_msgs:srv/SetPayload.srv",
+    "/home/zpw/UR3e-ROS2-resources/src/ur_msgs:srv/SetSpeedSliderFraction.srv",
+    "/home/zpw/UR3e-ROS2-resources/src/ur_msgs:srv/SetIO.srv"
+  ]
+}

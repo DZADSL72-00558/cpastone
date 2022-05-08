@@ -1,0 +1,35 @@
+[0.710s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur_bringup -- -j16 -l16
+[4.288s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/ur_bringup -- -j16 -l16
+[4.503s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/ur_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/ur_bringup
+[4.568s] -- Install configuration: ""
+[4.576s] -- Execute custom install script
+[4.577s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/config/test_goal_publishers_config.yaml
+[4.578s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/config/ur_controllers.yaml
+[4.597s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/launch/test_joint_trajectory_controller.launch.py
+[4.599s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/launch/test_scaled_joint_trajectory_controller.launch.py
+[4.603s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/launch/ur10.launch.py
+[4.605s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/launch/ur10e.launch.py
+[4.606s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/launch/ur16e.launch.py
+[4.607s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/launch/ur3.launch.py
+[4.630s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/launch/ur3e.launch.py
+[4.631s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/launch/ur5.launch.py
+[4.632s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/launch/ur5e.launch.py
+[4.633s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/launch/ur_control.launch.py
+[4.634s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/launch/ur_dashboard_client.launch.py
+[4.634s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/launch/ur_moveit.launch.py
+[4.635s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ament_index/resource_index/package_run_dependencies/ur_bringup
+[4.636s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ament_index/resource_index/parent_prefix_path/ur_bringup
+[4.636s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/environment/ament_prefix_path.sh
+[4.637s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/environment/ament_prefix_path.dsv
+[4.640s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/environment/path.sh
+[4.641s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/environment/path.dsv
+[4.642s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/local_setup.bash
+[4.644s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/local_setup.sh
+[4.660s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/local_setup.zsh
+[4.661s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/local_setup.dsv
+[4.662s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/package.dsv
+[4.890s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ament_index/resource_index/packages/ur_bringup
+[4.894s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig.cmake
+[4.895s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig-version.cmake
+[4.895s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/ur_bringup/share/ur_bringup/package.xml
+[5.162s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/ur_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zpw/UR3e-ROS2-resources/install/vr_connector:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo_msgs:/home/zpw/UR3e-ROS2-resources/install/unity_robotics_demo:/home/zpw/UR3e-ROS2-resources/install/ros_tcp_endpoint:/opt/ros/foxy /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/ur_bringup

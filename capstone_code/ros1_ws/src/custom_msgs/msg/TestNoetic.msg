@@ -1,0 +1,2 @@
+string test_str1
+int32 test_int1

@@ -1,0 +1,30 @@
+{
+  "package_name": "custom_msgs",
+  "output_dir": "/home/bofengluo/ros2_ws/build/custom_msgs/rosidl_generator_py/custom_msgs",
+  "template_dir": "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_py/cmake/../resource",
+  "idl_tuples": [
+    "/home/bofengluo/ros2_ws/build/custom_msgs/rosidl_adapter/custom_msgs:msg/TestFoxy.idl"
+  ],
+  "ros_interface_dependencies": [
+    "builtin_interfaces:/home/bofengluo/ros2_foxy/ros2-linux/share/builtin_interfaces/msg/Duration.idl",
+    "builtin_interfaces:/home/bofengluo/ros2_foxy/ros2-linux/share/builtin_interfaces/msg/Time.idl"
+  ],
+  "target_dependencies": [
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py",
+    "/home/bofengluo/ros2_foxy/ros2-linux/lib/python3.8/site-packages/rosidl_generator_py/__init__.py",
+    "/home/bofengluo/ros2_foxy/ros2-linux/lib/python3.8/site-packages/rosidl_generator_py/generate_py_impl.py",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_py/cmake/../resource/_action_pkg_typesupport_entry_point.c.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_py/cmake/../resource/_action.py.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_py/cmake/../resource/_idl_pkg_typesupport_entry_point.c.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_py/cmake/../resource/_idl_support.c.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_py/cmake/../resource/_idl.py.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_py/cmake/../resource/_msg_pkg_typesupport_entry_point.c.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_py/cmake/../resource/_msg_support.c.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_py/cmake/../resource/_msg.py.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_py/cmake/../resource/_srv_pkg_typesupport_entry_point.c.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_generator_py/cmake/../resource/_srv.py.em",
+    "/home/bofengluo/ros2_ws/build/custom_msgs/rosidl_adapter/custom_msgs/msg/TestFoxy.idl",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/builtin_interfaces/msg/Duration.idl",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/builtin_interfaces/msg/Time.idl"
+  ]
+}

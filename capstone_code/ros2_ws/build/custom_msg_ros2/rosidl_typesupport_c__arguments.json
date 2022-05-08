@@ -1,0 +1,17 @@
+{
+  "package_name": "custom_msg_ros2",
+  "output_dir": "/home/bofengluo/ros2_ws/build/custom_msg_ros2/rosidl_typesupport_c/custom_msg_ros2",
+  "template_dir": "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_typesupport_c/resource",
+  "idl_tuples": [
+    "/home/bofengluo/ros2_ws/build/custom_msg_ros2/rosidl_adapter/custom_msg_ros2:msg/CustomMessage.idl"
+  ],
+  "target_dependencies": [
+    "/home/bofengluo/ros2_foxy/ros2-linux/lib/rosidl_typesupport_c/rosidl_typesupport_c",
+    "/home/bofengluo/ros2_foxy/ros2-linux/lib/python3.8/site-packages/rosidl_typesupport_c/__init__.py",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_typesupport_c/resource/action__type_support.c.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_typesupport_c/resource/idl__type_support.cpp.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_typesupport_c/resource/msg__type_support.cpp.em",
+    "/home/bofengluo/ros2_foxy/ros2-linux/share/rosidl_typesupport_c/resource/srv__type_support.cpp.em",
+    "/home/bofengluo/ros2_ws/build/custom_msg_ros2/rosidl_adapter/custom_msg_ros2/msg/CustomMessage.idl"
+  ]
+}

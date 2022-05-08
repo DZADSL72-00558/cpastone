@@ -1,0 +1,2 @@
+Invoking command in '/home/bofengluo/ros2_ws/build/talker': /usr/bin/cmake --build /home/bofengluo/ros2_ws/build/talker -- -j16 -l16
+Invoked command in '/home/bofengluo/ros2_ws/build/talker' returned '2': /usr/bin/cmake --build /home/bofengluo/ros2_ws/build/talker -- -j16 -l16

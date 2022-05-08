@@ -1,0 +1,4 @@
+[console_scripts]
+listener = vr_connector.vr_receiver:main
+talker = vr_connector.vr_talker:main
+

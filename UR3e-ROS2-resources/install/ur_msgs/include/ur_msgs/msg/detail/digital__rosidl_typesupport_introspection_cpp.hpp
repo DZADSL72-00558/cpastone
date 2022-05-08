@@ -1,0 +1,1 @@
+/home/zpw/UR3e-ROS2-resources/build/ur_msgs/rosidl_typesupport_introspection_cpp/ur_msgs/msg/detail/digital__rosidl_typesupport_introspection_cpp.hpp

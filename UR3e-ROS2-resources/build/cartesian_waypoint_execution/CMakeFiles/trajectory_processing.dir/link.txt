@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtrajectory_processing.a  CMakeFiles/trajectory_processing.dir/src/trajectory_processing.cpp.o
+/usr/bin/ranlib libtrajectory_processing.a

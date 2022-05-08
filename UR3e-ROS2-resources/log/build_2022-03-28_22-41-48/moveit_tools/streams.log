@@ -1,0 +1,26 @@
+[0.023s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/moveit_tools': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/moveit_tools -- -j16 -l16
+[0.104s] [100%] Built target add_collision_ground_plane
+[0.131s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/moveit_tools' returned '0': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --build /home/zpw/UR3e-ROS2-resources/build/moveit_tools -- -j16 -l16
+[0.175s] Invoking command in '/home/zpw/UR3e-ROS2-resources/build/moveit_tools': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/moveit_tools
+[0.183s] -- Install configuration: "Release"
+[0.185s] -- Execute custom install script
+[0.185s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/launch/move_group.launch.py
+[0.185s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/launch/move_group.rviz
+[0.186s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/launch/ur_moveit.launch.py
+[0.186s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/lib/moveit_tools/add_collision_ground_plane
+[0.186s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/ament_index/resource_index/package_run_dependencies/moveit_tools
+[0.188s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/ament_index/resource_index/parent_prefix_path/moveit_tools
+[0.189s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/environment/ament_prefix_path.sh
+[0.189s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/environment/ament_prefix_path.dsv
+[0.189s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/environment/path.sh
+[0.189s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/environment/path.dsv
+[0.190s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/local_setup.bash
+[0.191s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/local_setup.sh
+[0.192s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/local_setup.zsh
+[0.192s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/local_setup.dsv
+[0.192s] -- Symlinking: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/package.dsv
+[0.196s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/ament_index/resource_index/packages/moveit_tools
+[0.196s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/cmake/moveit_toolsConfig.cmake
+[0.197s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/cmake/moveit_toolsConfig-version.cmake
+[0.197s] -- Up-to-date symlink: /home/zpw/UR3e-ROS2-resources/install/moveit_tools/share/moveit_tools/package.xml
+[0.200s] Invoked command in '/home/zpw/UR3e-ROS2-resources/build/moveit_tools' returned '0': AMENT_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools:/opt/ros/foxy LD_LIBRARY_PATH=/home/zpw/UR3e-ROS2-resources/install/moveit_visual_tools/lib:/home/zpw/UR3e-ROS2-resources/install/rviz_visual_tools/lib:${LD_LIBRARY_PATH} /usr/bin/cmake --install /home/zpw/UR3e-ROS2-resources/build/moveit_tools

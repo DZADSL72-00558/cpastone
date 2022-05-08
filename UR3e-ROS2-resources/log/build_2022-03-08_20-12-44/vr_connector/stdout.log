@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/vr_connector/vr_connector.egg-info
+writing ../../build/vr_connector/vr_connector.egg-info/PKG-INFO
+writing dependency_links to ../../build/vr_connector/vr_connector.egg-info/dependency_links.txt
+writing entry points to ../../build/vr_connector/vr_connector.egg-info/entry_points.txt
+writing requirements to ../../build/vr_connector/vr_connector.egg-info/requires.txt
+writing top-level names to ../../build/vr_connector/vr_connector.egg-info/top_level.txt
+writing manifest file '../../build/vr_connector/vr_connector.egg-info/SOURCES.txt'
+reading manifest file '../../build/vr_connector/vr_connector.egg-info/SOURCES.txt'
+writing manifest file '../../build/vr_connector/vr_connector.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/zpw/UR3e-ROS2-resources/build/vr_connector/build
+creating /home/zpw/UR3e-ROS2-resources/build/vr_connector/build/lib
+creating /home/zpw/UR3e-ROS2-resources/build/vr_connector/build/lib/vr_connector
+copying vr_connector/vr_talker.py -> /home/zpw/UR3e-ROS2-resources/build/vr_connector/build/lib/vr_connector
+copying vr_connector/vr_receiver.py -> /home/zpw/UR3e-ROS2-resources/build/vr_connector/build/lib/vr_connector
+copying vr_connector/__init__.py -> /home/zpw/UR3e-ROS2-resources/build/vr_connector/build/lib/vr_connector
+running install
+running install_lib
+creating /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages/vr_connector
+copying /home/zpw/UR3e-ROS2-resources/build/vr_connector/build/lib/vr_connector/vr_talker.py -> /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages/vr_connector
+copying /home/zpw/UR3e-ROS2-resources/build/vr_connector/build/lib/vr_connector/vr_receiver.py -> /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages/vr_connector
+copying /home/zpw/UR3e-ROS2-resources/build/vr_connector/build/lib/vr_connector/__init__.py -> /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages/vr_connector
+byte-compiling /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages/vr_connector/vr_talker.py to vr_talker.cpython-38.pyc
+byte-compiling /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages/vr_connector/vr_receiver.py to vr_receiver.cpython-38.pyc
+byte-compiling /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages/vr_connector/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/zpw/UR3e-ROS2-resources/install/vr_connector/share/ament_index
+creating /home/zpw/UR3e-ROS2-resources/install/vr_connector/share/ament_index/resource_index
+creating /home/zpw/UR3e-ROS2-resources/install/vr_connector/share/ament_index/resource_index/packages
+copying resource/vr_connector -> /home/zpw/UR3e-ROS2-resources/install/vr_connector/share/ament_index/resource_index/packages
+copying package.xml -> /home/zpw/UR3e-ROS2-resources/install/vr_connector/share/vr_connector
+running install_egg_info
+Copying ../../build/vr_connector/vr_connector.egg-info to /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/python3.8/site-packages/vr_connector-0.0.0-py3.8.egg-info
+running install_scripts
+Installing listener script to /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/vr_connector
+Installing talker script to /home/zpw/UR3e-ROS2-resources/install/vr_connector/lib/vr_connector
+writing list of installed files to '/home/zpw/UR3e-ROS2-resources/build/vr_connector/install.log'

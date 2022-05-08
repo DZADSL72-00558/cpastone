@@ -1,0 +1,16 @@
+/home/bofengluo/ros2_ws/install/talker/lib/talker/talker
+/home/bofengluo/ros2_ws/install/talker/share/ament_index/resource_index/package_run_dependencies/talker
+/home/bofengluo/ros2_ws/install/talker/share/ament_index/resource_index/parent_prefix_path/talker
+/home/bofengluo/ros2_ws/install/talker/share/talker/environment/ament_prefix_path.sh
+/home/bofengluo/ros2_ws/install/talker/share/talker/environment/ament_prefix_path.dsv
+/home/bofengluo/ros2_ws/install/talker/share/talker/environment/path.sh
+/home/bofengluo/ros2_ws/install/talker/share/talker/environment/path.dsv
+/home/bofengluo/ros2_ws/install/talker/share/talker/local_setup.bash
+/home/bofengluo/ros2_ws/install/talker/share/talker/local_setup.sh
+/home/bofengluo/ros2_ws/install/talker/share/talker/local_setup.zsh
+/home/bofengluo/ros2_ws/install/talker/share/talker/local_setup.dsv
+/home/bofengluo/ros2_ws/install/talker/share/talker/package.dsv
+/home/bofengluo/ros2_ws/install/talker/share/ament_index/resource_index/packages/talker
+/home/bofengluo/ros2_ws/install/talker/share/talker/cmake/talkerConfig.cmake
+/home/bofengluo/ros2_ws/install/talker/share/talker/cmake/talkerConfig-version.cmake
+/home/bofengluo/ros2_ws/install/talker/share/talker/package.xml

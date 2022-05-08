@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from custom_msgs/msg/TestFoxy.msg
+// generated code does not contain a copyright notice
+
+
+module custom_msgs {
+  module msg {
+    struct TestFoxy {
+      string test_str2;
+
+      int32 test_int2;
+    };
+  };
+};
