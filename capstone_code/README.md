@@ -20,6 +20,8 @@ then we need to establish soft connection by input:
 > colcon build talker // int ros2 in terminal 2
 ### step3
 start gazebo in terminal1
+> source /rso1_ws/setup.bash
+
 > roslaunch ur_e_gazebo ur3e.launch
 
 start ros1_bridge in terminal2:
